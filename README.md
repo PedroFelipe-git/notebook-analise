@@ -1,5 +1,11 @@
 # ☕ CaféBR — Análise Exploratória de Vendas (2024–2025)
 
+> ⚠️ **AVISO — DADOS FICTÍCIOS.** A "CaféBR" **não existe**: é uma empresa **inventada**
+> para este projeto de portfólio. Todas as vendas, lojas, preços e números foram
+> **gerados sinteticamente por código** (`gerar_dados.py`). **Nenhum dado é real,
+> sigiloso, confidencial ou vazado** — não há relação com nenhuma empresa ou pessoa
+> existente. O conteúdo pode ser visto e compartilhado livremente.
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)

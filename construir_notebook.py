@@ -28,6 +28,12 @@ md(r"""
 
 **Autor:** analista de dados · **Ferramentas:** Python · pandas · SQL (sqlite3) · matplotlib · seaborn
 
+> ⚠️ **AVISO — DADOS FICTÍCIOS.** A "CaféBR" **não existe**: é uma empresa **inventada**
+> para este projeto de portfólio. Todas as vendas, lojas, preços e números foram
+> **gerados sinteticamente por código** (`gerar_dados.py`). **Nenhum dado é real,
+> sigiloso, confidencial ou vazado** — não há relação com nenhuma empresa ou pessoa
+> existente. O conteúdo pode ser visto e compartilhado livremente.
+
 ---
 
 ## 1. Introdução
