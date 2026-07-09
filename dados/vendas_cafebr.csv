@@ -1,0 +1,2016 @@
+data,loja,produto,categoria,quantidade,preco_unitario,forma_pagamento,canal
+2024-08-16 16:11,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,4.78,Cartão,Balcão
+2024-11-10 08:09,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.53,Pix,App
+2024-12-08 07:38,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.16,Cartão,App
+2024-12-12 10:14,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.38,Cartão,Balcão
+2024-01-13 12:59,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.66,Cartão,Balcão
+2025-10-21 09:43,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.47,Cartão,Delivery
+2025-07-23 21:55,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.65,Cartão,Balcão
+2024-12-05 10:42,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,6.86,Pix,Balcão
+2024-10-24 15:23,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.86,Pix,Balcão
+2024-03-19 09:53,Curitiba - Batel,Suco Natural,Bebida Gelada,2,9.56,Cartão,Delivery
+2024-06-22 08:00,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.34,Pix,Delivery
+2025-02-22 16:43,São Paulo - Paulista,Sanduíche Natural,Comida,2,16.89,Pix,Delivery
+2024-05-14 13:08,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.28,Pix,Balcão
+2025-06-07 16:32,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.47,Pix,Balcão
+2024-07-08 07:51,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.59,Pix,Balcão
+2025-08-23 11:11,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.47,Cartão,Balcão
+2024-07-17 15:54,Curitiba - Batel,Latte,Bebida Quente,1,11.53,Dinheiro,Balcão
+2025-03-08 09:48,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,4,9.37,Cartão,Delivery
+2025-12-18 08:50,Curitiba - Batel,Cappuccino,Bebida Quente,1,10.64,Cartão,App
+2025-12-26 18:12,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.13,Cartão,Balcão
+2025-04-21 11:56,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.39,Pix,Balcão
+2025-05-23 15:39,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.63,Cartão,Balcão
+2024-03-26 19:14,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.37,Cartão,App
+2024-09-28 17:50,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.79,Cartão,Balcão
+2025-08-01 13:50,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.72,Pix,Delivery
+2024-12-29 15:50,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.11,Cartão,App
+2025-03-17 09:16,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,10.94,Cartão,Balcão
+2024-07-12 20:13,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.19,Dinheiro,Balcão
+2024-09-28 17:34,São Paulo - Paulista,Sanduíche Natural,Comida,2,15.6,Cartão,Balcão
+2024-08-14 09:39,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,4,12.81,Cartão,App
+2024-09-19 19:37,Curitiba - Batel,Suco Natural,Bebida Gelada,1,9.55,Pix,Balcão
+2024-11-12 14:03,Curitiba - Batel,Suco Natural,Bebida Gelada,2,10.21,Pix,App
+2024-11-01 19:53,São Paulo - Paulista,Latte,Bebida Quente,1,12.82,Cartão,Balcão
+2024-04-17 11:50,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,5.92,Pix,Balcão
+2025-09-17 14:30,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.17,Cartão,Balcão
+2024-07-19 17:54,São Paulo - Paulista,Latte,Bebida Quente,1,12.42,Cartão,Balcão
+2025-12-07 08:20,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.72,Pix,Balcão
+2025-08-28 10:48,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.81,Cartão,Balcão
+2025-08-18 17:24,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.52,Cartão,Delivery
+2024-05-11 07:41,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.35,Cartão,Delivery
+2025-02-08 14:58,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,15.38,Pix,Balcão
+2025-12-08 11:57,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,13.77,Cartão,Balcão
+2025-06-04 14:16,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.19,Cartão,Balcão
+2024-06-07 18:08,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,4,6.09,Pix,Balcão
+2025-06-04 19:54,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.49,Cartão,Delivery
+2025-01-03 09:34,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,2,13.15,Pix,App
+2025-06-28 10:35,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.55,Pix,App
+2024-01-10 09:58,Belo Horizonte - Savassi,Croissant,Comida,1,11.73,Pix,App
+2024-10-19 14:44,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,13.38,Cartão,Balcão
+2024-07-26 16:49,Porto Alegre - Moinhos,Latte,Bebida Quente,2,12.94,Pix,App
+2024-04-08 09:25,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.38,Cartão,App
+2025-07-30 11:53,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.88,Cartão,Balcão
+2024-02-22 19:49,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.53,Pix,Balcão
+2025-06-29 11:51,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.94,Cartão,Balcão
+2024-10-21 09:27,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,5.7,Cartão,App
+2025-08-04 11:05,Belo Horizonte - Savassi,Croissant,Comida,1,12.12,Pix,Balcão
+2025-02-19 10:37,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.42,Cartão,Balcão
+2024-05-08 10:16,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.49,Pix,App
+2024-11-17 14:49,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.59,Cartão,Balcão
+2024-01-13 10:22,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.94,Pix,Balcão
+2025-09-27 16:49,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,10.1,Cartão,Balcão
+2024-08-13 08:15,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.93,Cartão,Balcão
+2024-11-13 08:17,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.41,Cartão,Balcão
+2024-06-24 15:11,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.58,Pix,Balcão
+2025-01-21 11:52,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.08,Cartão,App
+2025-04-23 20:59,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.89,Cartão,Balcão
+2024-05-31 13:35,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.28,Cartão,Balcão
+2024-05-13 09:48,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,10.57,Pix,Delivery
+2025-06-12 10:50,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.17,Cartão,Balcão
+2025-10-03 10:02,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.08,Cartão,Balcão
+2025-06-25 13:18,Belo Horizonte - Savassi,Croissant,Comida,1,12.41,Pix,Balcão
+2024-03-21 17:35,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.85,Cartão,Delivery
+2024-12-12 12:42,São Paulo - Paulista,Sanduíche Natural,Comida,1,17.16,Pix,App
+2025-06-29 11:52,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.84,Cartão,Balcão
+2024-10-15 09:02,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.13,Pix,App
+2025-05-17 10:28,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.06,Cartão,Balcão
+2024-06-18 08:20,São Paulo - Paulista,Latte,Bebida Quente,1,12.26,Pix,Balcão
+2024-02-11 08:27,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.48,Pix,Balcão
+2024-02-23 19:42,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.7,Dinheiro,Balcão
+2025-07-24 12:41,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.12,,Balcão
+2024-01-27 09:22,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.24,Pix,Balcão
+2025-12-12 09:19,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.67,Pix,Delivery
+2025-01-31 16:52,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.78,Cartão,Balcão
+2025-07-28 18:15,São Paulo - Paulista,Latte,Bebida Quente,1,11.75,Cartão,Balcão
+2024-02-01 10:06,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.59,Cartão,Delivery
+2025-06-03 12:54,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.91,Pix,Balcão
+2025-02-14 11:33,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.98,Cartão,Balcão
+2024-10-25 16:18,São Paulo - Paulista,Bolo de Cenoura,Comida,2,10.13,Cartão,Delivery
+2025-07-24 07:58,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,4,10.93,Pix,App
+2025-11-29 09:26,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,3,10.03,Cartão,App
+2024-01-13 07:03,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,13.72,Dinheiro,Balcão
+2025-02-22 07:59,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.18,Cartão,App
+2024-06-11 09:26,Belo Horizonte - Savassi,Croissant,Comida,1,12.31,Pix,Balcão
+2024-11-20 11:14,Curitiba - Batel,Sanduíche Natural,Comida,1,15.27,Dinheiro,Balcão
+2025-04-06 18:03,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.15,Pix,Balcão
+2024-04-21 08:41,São Paulo - Paulista,Pão de Queijo,Comida,1,6.79,Dinheiro,Balcão
+2025-08-18 10:45,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.44,Cartão,Balcão
+2024-10-19 09:53,Curitiba - Batel,Café Gelado,Bebida Gelada,1,13.34,Pix,Balcão
+2025-09-28 13:34,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.01,Cartão,Balcão
+2024-06-04 18:49,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.61,Dinheiro,Balcão
+2024-06-02 16:41,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.73,Pix,Balcão
+2024-05-24 13:35,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.78,Cartão,App
+2025-09-05 15:21,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.65,Pix,Balcão
+2025-05-13 17:13,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.76,Pix,Balcão
+2024-11-26 11:37,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.95,Cartão,Balcão
+2025-09-10 08:41,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.5,Pix,Balcão
+2025-01-26 13:11,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,15.6,Cartão,Balcão
+2024-10-30 09:41,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.18,Pix,App
+2025-08-30 11:03,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,10.87,Cartão,App
+2025-08-17 09:28,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.19,Cartão,Balcão
+2024-04-03 07:12,São Paulo - Paulista,Café Coado,Bebida Quente,3,5.05,Cartão,Delivery
+2024-04-24 09:44,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.61,Cartão,Balcão
+2024-06-18 10:06,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,6.01,Pix,App
+2025-09-12 07:05,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.63,Cartão,Balcão
+2024-06-20 11:57,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.2,Cartão,Delivery
+2025-05-22 07:20,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.36,Pix,App
+2025-04-28 13:33,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,3,11.51,Cartão,Delivery
+2024-08-08 09:51,Belo Horizonte - Savassi,Croissant,Comida,1,11.84,Cartão,Delivery
+2024-08-15 19:51,São Paulo - Paulista,Latte,Bebida Quente,1,11.98,Pix,Delivery
+2025-08-12 15:44,São Paulo - Paulista,Café Coado,Bebida Quente,3,5.06,Pix,Delivery
+2024-10-04 11:52,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.24,Pix,Delivery
+2025-11-13 09:43,São Paulo - Paulista,Bolo de Cenoura,Comida,3,9.07,Pix,Balcão
+2024-06-24 19:25,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.58,Pix,Balcão
+2024-06-30 09:25,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,10.97,Cartão,Balcão
+2025-04-06 09:24,São Paulo - Paulista,Latte,Bebida Quente,1,11.52,Pix,Balcão
+2025-10-06 21:19,São Paulo - Paulista,Cappuccino,Bebida Quente,4,10.75,Pix,Balcão
+2025-07-16 07:23,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.76,Cartão,Balcão
+2025-02-02 14:57,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.49,Cartão,Balcão
+2024-02-20 09:24,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.39,Pix,Balcão
+2024-11-14 07:52,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.45,Cartão,App
+2025-08-25 18:26,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,4,11.08,Dinheiro,Balcão
+2025-03-22 08:34,Curitiba - Batel,Sanduíche Natural,Comida,1,15.78,Cartão,Balcão
+2025-11-22 11:40,Curitiba - Batel,Café Coado,Bebida Quente,2,5.05,Pix,Delivery
+2025-04-07 08:28,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,3,13.62,Cartão,App
+2024-08-19 09:27,Curitiba - Batel,Café Coado,Bebida Quente,2,5.09,Cartão,Balcão
+2025-04-03 08:40,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.67,Dinheiro,Balcão
+2024-07-11 20:00,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.01,Cartão,Balcão
+2025-07-06 18:11,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.73,Cartão,Balcão
+2024-06-28 09:39,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,17.26,Cartão,Balcão
+2025-01-12 11:05,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,5.73,Pix,App
+2024-02-09 12:51,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.82,Cartão,Balcão
+2024-07-19 20:43,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,11.02,Pix,App
+2024-03-06 11:12,Belo Horizonte - Savassi,Croissant,Comida,4,11.57,Cartão,App
+2024-03-08 17:37,Curitiba - Batel,Sanduíche Natural,Comida,3,15.58,Cartão,Delivery
+2025-09-12 09:19,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.27,Dinheiro,Balcão
+2025-06-10 20:29,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.3,Cartão,Balcão
+2025-10-16 08:24,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.83,Pix,Balcão
+2024-07-28 18:23,Curitiba - Batel,Pão de Queijo,Comida,1,7.53,Pix,App
+2025-01-09 10:30,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.89,Dinheiro,Balcão
+2024-06-10 15:00,São Paulo - Paulista,Croissant,Comida,1,12.02,Dinheiro,Balcão
+2025-06-13 09:28,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.0,Cartão,App
+2024-05-17 09:05,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.3,Cartão,Balcão
+2025-09-06 08:08,Porto Alegre - Moinhos,Café Coado,Bebida Quente,2,5.14,Cartão,Balcão
+2024-09-04 11:06,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,4.99,Pix,Balcão
+2024-12-27 12:38,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,13.02,Cartão,Delivery
+2025-07-02 17:44,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.75,Cartão,App
+2025-05-06 17:00,Curitiba - Batel,Suco Natural,Bebida Gelada,1,10.46,Pix,Balcão
+2025-07-26 11:51,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.19,Pix,Balcão
+2024-11-14 07:21,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.23,Cartão,App
+2025-08-13 16:52,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,10.51,Cartão,App
+2024-03-15 15:42,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.53,Pix,Balcão
+2024-12-18 12:25,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.29,Pix,App
+2025-01-18 15:01,Curitiba - Batel,Pão de Queijo,Comida,2,6.76,Cartão,Balcão
+2024-06-29 10:02,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,13.75,Cartão,Balcão
+2024-07-20 20:15,São Paulo - Paulista,Latte,Bebida Quente,1,12.07,Cartão,App
+2024-08-27 07:01,São Paulo - Paulista,Croissant,Comida,2,11.49,Cartão,App
+2025-08-15 20:50,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.2,Cartão,App
+2025-08-28 10:22,São Paulo - Paulista,Croissant,Comida,3,12.82,Cartão,Balcão
+2025-07-22 07:33,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.55,Cartão,Balcão
+2024-04-12 11:05,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.8,Pix,Balcão
+2024-03-04 07:42,Curitiba - Batel,Bolo de Cenoura,Comida,1,10.09,Cartão,Balcão
+2024-09-11 10:44,Curitiba - Batel,Café Coado,Bebida Quente,1,4.92,Cartão,Balcão
+2024-04-24 08:36,Belo Horizonte - Savassi,Latte,Bebida Quente,3,12.5,Cartão,App
+2024-07-01 20:13,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.68,Pix,App
+2024-06-02 17:24,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.45,Cartão,Balcão
+2024-05-11 19:21,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,4.86,Pix,App
+2024-08-22 10:52,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.85,Cartão,App
+2024-06-09 09:02,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.91,Cartão,Balcão
+2024-07-06 11:43,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,13.09,Dinheiro,Balcão
+2024-09-04 09:21,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.32,Pix,Delivery
+2024-04-05 08:22,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.06,Dinheiro,Balcão
+2025-02-11 10:19,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.86,Pix,App
+2024-08-05 21:54,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,13.45,Pix,App
+2025-06-02 18:17,Belo Horizonte - Savassi,Croissant,Comida,3,12.72,Pix,App
+2024-10-29 11:08,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.79,Cartão,App
+2025-03-24 15:43,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,10.0,Cartão,App
+2024-02-03 11:52,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.7,Cartão,App
+2024-07-04 09:01,Belo Horizonte - Savassi,Croissant,Comida,1,12.51,Cartão,Balcão
+2025-01-18 18:25,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,12.62,Pix,App
+2025-09-22 08:29,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,6.37,Pix,Delivery
+2025-07-23 12:33,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.42,Dinheiro,Balcão
+2024-09-03 08:13,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.84,Dinheiro,Balcão
+2024-12-30 11:40,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,2,12.16,Cartão,App
+2024-07-03 20:22,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.72,Pix,Delivery
+2024-03-15 09:47,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,13.09,Dinheiro,Balcão
+2025-03-11 21:39,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,9.59,Cartão,Delivery
+2025-09-04 09:53,Curitiba - Batel,Bolo de Chocolate,Comida,2,10.08,Cartão,App
+2025-09-21 11:33,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,4,5.28,Pix,App
+2025-04-04 09:35,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.34,Cartão,Balcão
+2025-11-26 19:18,Curitiba - Batel,Sanduíche Natural,Comida,1,16.85,Dinheiro,Balcão
+2024-06-17 10:28,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.2,Pix,Balcão
+2024-09-24 07:06,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.93,Pix,Balcão
+2025-09-06 08:03,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.47,Pix,Balcão
+2024-02-25 20:19,Porto Alegre - Moinhos,Pão de Queijo,Comida,2,6.95,Pix,Balcão
+2024-04-05 12:29,São Paulo - Paulista,Bolo de Chocolate,Comida,4,11.15,Cartão,App
+2025-12-01 18:02,Curitiba - Batel,Café Gelado,Bebida Gelada,1,13.11,,App
+2024-08-26 18:54,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.89,Cartão,Balcão
+2025-10-21 07:26,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.39,Pix,App
+2025-06-11 10:49,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.25,Cartão,App
+2025-12-29 20:52,São Paulo - Paulista,Croissant,Comida,1,12.08,Pix,Balcão
+2024-08-14 19:34,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.07,Cartão,App
+2024-03-08 09:01,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,3,12.91,Cartão,Delivery
+2025-06-17 15:29,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,3,5.97,Pix,Balcão
+2024-03-23 15:35,Curitiba - Batel,Café Coado,Bebida Quente,3,4.8,Pix,Delivery
+2025-07-05 07:20,Curitiba - Batel,Latte,Bebida Quente,1,12.13,Dinheiro,Balcão
+2024-12-29 20:14,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.79,Cartão,App
+2024-07-16 14:39,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.24,Pix,Balcão
+2024-08-25 10:28,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.75,Cartão,Delivery
+2024-04-08 13:19,Curitiba - Batel,Sanduíche Natural,Comida,2,17.11,Pix,Balcão
+2025-06-25 08:36,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.41,Cartão,Delivery
+2025-06-08 08:28,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.96,Cartão,App
+2025-08-13 07:06,Curitiba - Batel,Latte,Bebida Quente,1,12.45,Cartão,App
+2025-08-16 11:32,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.88,Pix,Delivery
+2025-06-25 19:19,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.07,Cartão,Balcão
+2025-05-13 07:51,Curitiba - Batel,Chocolate Quente,Bebida Quente,3,12.54,Cartão,Balcão
+2025-01-11 21:15,São Paulo - Paulista,Croissant,Comida,1,11.43,Pix,Balcão
+2025-04-27 09:01,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.72,,Delivery
+2025-05-02 14:15,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.21,Pix,Delivery
+2024-07-08 09:12,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.67,Pix,Balcão
+2024-05-26 20:02,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.21,Cartão,Balcão
+2025-04-20 15:36,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.47,Cartão,Delivery
+2024-02-04 15:04,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.27,Pix,Balcão
+2025-11-27 11:38,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,4,10.19,Pix,App
+2024-12-05 13:22,Belo Horizonte - Savassi,Latte,Bebida Quente,2,11.56,Cartão,App
+2024-08-28 07:25,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.87,Cartão,Delivery
+2025-10-08 21:49,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.67,Cartão,Balcão
+2024-06-03 07:33,São Paulo - Paulista,Latte,Bebida Quente,1,11.83,Cartão,Delivery
+2024-07-25 08:21,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,5.18,Pix,Balcão
+2025-05-13 20:06,Porto Alegre - Moinhos,Latte,Bebida Quente,3,11.51,Cartão,App
+2025-04-10 07:39,São Paulo - Paulista,Pão de Queijo,Comida,2,6.94,Pix,Balcão
+2025-04-30 11:14,Curitiba - Batel,Sanduíche Natural,Comida,2,17.12,Cartão,App
+2024-05-17 09:14,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.46,Pix,Balcão
+2024-04-01 15:05,Porto Alegre - Moinhos,Croissant,Comida,2,11.61,Cartão,App
+2024-04-25 08:22,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.7,Pix,Balcão
+2024-09-30 18:53,São Paulo - Paulista,Suco Natural,Bebida Gelada,3,9.61,Pix,Balcão
+2024-05-24 09:43,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.48,Cartão,Delivery
+2024-05-23 11:18,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.35,Cartão,Balcão
+2025-02-20 17:23,Curitiba - Batel,Pão de Queijo,Comida,2,7.48,Pix,App
+2024-05-16 10:51,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,6.22,Cartão,Balcão
+2024-04-15 09:30,Curitiba - Batel,Pão de Queijo,Comida,1,6.77,Pix,Balcão
+2025-11-11 17:07,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.31,Pix,App
+2025-11-02 12:11,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.44,Pix,Delivery
+2024-01-15 08:27,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,13.19,Cartão,App
+2025-05-06 11:11,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.74,Pix,Delivery
+2024-02-28 11:54,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.61,Pix,Balcão
+2024-11-20 08:46,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.83,Pix,Balcão
+2024-11-05 16:18,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.9,Dinheiro,Balcão
+2025-08-31 21:05,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.27,Pix,Delivery
+2024-06-01 18:26,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,12.46,Pix,Delivery
+2025-12-28 12:30,Curitiba - Batel,Café Gelado,Bebida Gelada,2,12.4,Cartão,Delivery
+2025-07-21 13:00,Belo Horizonte - Savassi,Latte,Bebida Quente,4,12.08,Pix,App
+2024-03-31 08:39,Curitiba - Batel,Croissant,Comida,3,12.72,Cartão,App
+2025-12-24 08:19,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.59,Cartão,Balcão
+2025-05-02 16:08,Porto Alegre - Moinhos,Café Coado,Bebida Quente,2,5.19,Cartão,App
+2024-12-20 10:00,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.14,Cartão,Balcão
+2024-07-25 21:39,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,13.32,Cartão,App
+2024-05-16 18:14,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.15,Pix,App
+2025-08-31 11:02,Curitiba - Batel,Chocolate Quente,Bebida Quente,4,12.73,Cartão,App
+2024-07-01 19:59,São Paulo - Paulista,Café Expresso,Bebida Quente,3,6.11,Cartão,Delivery
+2025-11-25 09:10,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.59,Cartão,App
+2024-08-18 07:53,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,10.99,Cartão,Delivery
+2024-07-06 13:02,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.67,Pix,App
+2024-11-12 08:04,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.57,Pix,Balcão
+2024-06-11 19:20,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,6.02,Cartão,Delivery
+2024-07-16 07:23,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.14,Pix,App
+2025-08-16 09:08,Belo Horizonte - Savassi,Croissant,Comida,1,11.45,Cartão,App
+2024-08-01 09:19,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.33,Dinheiro,Balcão
+2025-05-12 10:56,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.68,Cartão,App
+2025-07-08 11:20,Curitiba - Batel,Cappuccino,Bebida Quente,2,11.52,Cartão,App
+2024-10-09 14:24,Curitiba - Batel,Café Expresso,Bebida Quente,2,5.87,Pix,App
+2024-07-21 13:37,Belo Horizonte - Savassi,Pão de Queijo,Comida,4,7.02,Pix,Delivery
+2024-09-17 07:36,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.37,Cartão,Delivery
+2025-08-19 16:42,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.76,Pix,Balcão
+2025-02-01 12:20,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.61,Cartão,Balcão
+2024-07-12 19:46,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.89,Dinheiro,Balcão
+2025-04-23 07:00,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.85,Cartão,Balcão
+2024-05-20 12:20,São Paulo - Paulista,Croissant,Comida,1,11.78,Cartão,Delivery
+2025-07-07 13:14,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.38,Cartão,Balcão
+2025-12-21 09:49,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.07,Cartão,App
+2025-10-11 11:27,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,13.17,Cartão,App
+2024-06-13 21:13,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.93,Pix,Balcão
+2025-04-24 14:37,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.43,Pix,Balcão
+2025-09-15 13:38,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,2,13.48,Cartão,App
+2024-08-21 13:37,Belo Horizonte - Savassi,Croissant,Comida,2,12.9,Cartão,App
+2024-10-12 21:14,São Paulo - Paulista,Latte,Bebida Quente,1,12.66,Pix,Balcão
+2024-03-07 07:36,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.76,Pix,Balcão
+2024-04-27 08:59,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.83,Dinheiro,Balcão
+2025-10-26 07:59,São Paulo - Paulista,Latte,Bebida Quente,2,11.54,Pix,App
+2025-11-26 17:17,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.17,Pix,Delivery
+2024-03-18 07:55,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.83,Cartão,App
+2024-08-23 15:26,São Paulo - Paulista,Bolo de Cenoura,Comida,3,9.48,Pix,Balcão
+2025-01-08 07:19,Curitiba - Batel,Café Gelado,Bebida Gelada,1,13.14,Pix,Balcão
+2024-11-10 21:03,Curitiba - Batel,Café Gelado,Bebida Gelada,4,13.14,Cartão,App
+2025-06-28 09:41,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.46,Pix,Balcão
+2025-06-25 18:08,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.73,Cartão,App
+2024-10-14 07:14,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,11.14,Pix,Balcão
+2024-04-02 11:03,Curitiba - Batel,Café Coado,Bebida Quente,2,5.3,Cartão,App
+2024-11-23 07:10,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.15,Cartão,App
+2025-07-04 21:01,Curitiba - Batel,Bolo de Chocolate,Comida,2,10.4,Pix,App
+2024-02-24 16:47,Curitiba - Batel,Café Gelado,Bebida Gelada,3,12.27,Pix,App
+2025-10-16 08:57,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,11.69,Cartão,Balcão
+2025-01-07 08:02,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.32,Pix,Balcão
+2025-03-15 18:17,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,10.55,Cartão,App
+2025-08-31 21:54,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.62,Pix,Delivery
+2024-10-01 12:24,São Paulo - Paulista,Latte,Bebida Quente,1,12.88,Dinheiro,Balcão
+2025-07-27 14:58,Curitiba - Batel,Latte,Bebida Quente,1,11.46,Pix,Balcão
+2024-10-15 16:28,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.28,Pix,App
+2025-09-16 07:59,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.89,Pix,App
+2025-06-23 20:57,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.66,Dinheiro,Balcão
+2024-07-24 15:48,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.13,Pix,Balcão
+2024-09-02 07:56,Curitiba - Batel,Bolo de Cenoura,Comida,1,10.01,Pix,Balcão
+2025-04-06 10:15,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.63,Cartão,Balcão
+2024-04-29 10:56,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.17,Cartão,Delivery
+2025-04-08 08:35,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.45,Pix,App
+2024-08-15 19:06,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.17,Pix,Balcão
+2024-01-19 12:13,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.73,Cartão,Balcão
+2025-01-13 19:21,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,6.29,Cartão,Balcão
+2024-08-27 20:36,Belo Horizonte - Savassi,Latte,Bebida Quente,2,11.46,Pix,Balcão
+2025-11-25 19:41,Curitiba - Batel,Latte,Bebida Quente,1,12.91,Cartão,Balcão
+2025-08-13 10:03,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.6,Pix,App
+2025-07-12 07:18,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.41,Pix,App
+2025-03-27 11:02,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.15,Cartão,App
+2025-07-14 07:54,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,3,9.11,Cartão,App
+2024-01-16 15:12,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.39,Dinheiro,Balcão
+2024-02-10 10:37,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.58,Dinheiro,Balcão
+2025-09-26 17:55,São Paulo - Paulista,Sanduíche Natural,Comida,2,17.26,Cartão,App
+2025-08-29 08:32,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.07,Pix,App
+2025-10-16 10:58,Curitiba - Batel,Croissant,Comida,1,11.62,Cartão,App
+2024-07-08 08:07,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.87,Cartão,Balcão
+2025-06-18 11:13,Curitiba - Batel,Pão de Queijo,Comida,2,7.39,Pix,Balcão
+2025-10-26 09:18,São Paulo - Paulista,Suco Natural,Bebida Gelada,4,9.51,Cartão,App
+2024-09-10 07:07,São Paulo - Paulista,Latte,Bebida Quente,1,12.74,Cartão,Balcão
+2025-06-29 15:30,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.42,Cartão,App
+2024-09-02 15:21,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,11.07,Pix,Balcão
+2024-06-08 12:56,São Paulo - Paulista,Latte,Bebida Quente,1,11.52,Cartão,Balcão
+2024-07-18 07:57,São Paulo - Paulista,Café Coado,Bebida Quente,3,4.88,Cartão,Delivery
+2025-01-12 17:07,São Paulo - Paulista,Café Coado,Bebida Quente,3,5.12,Cartão,Delivery
+2025-08-27 09:37,Porto Alegre - Moinhos,Latte,Bebida Quente,1,11.7,Pix,Balcão
+2025-09-14 07:10,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.63,Pix,Balcão
+2025-04-01 21:15,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,10.63,Cartão,App
+2025-04-30 09:59,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.36,Cartão,Balcão
+2024-11-27 14:43,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,12.39,Cartão,Balcão
+2024-03-24 12:00,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,11.32,Pix,App
+2024-08-08 07:54,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.59,Pix,App
+2025-02-17 10:52,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.94,Pix,Balcão
+2025-06-20 14:19,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,10.21,Cartão,Balcão
+2024-10-22 21:00,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.66,Dinheiro,Balcão
+2024-02-15 10:40,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,11.3,Pix,Balcão
+2025-04-08 14:38,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,11.49,Cartão,App
+2025-10-26 07:57,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.0,Cartão,App
+2024-08-17 07:15,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.09,Pix,App
+2024-07-11 09:07,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,6.2,Pix,App
+2024-09-28 09:27,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.14,Cartão,Balcão
+2024-02-26 10:37,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,11.07,Pix,Balcão
+2024-06-22 16:01,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.27,Cartão,App
+2025-02-25 10:40,Curitiba - Batel,Latte,Bebida Quente,2,12.43,Cartão,Balcão
+2024-09-24 10:32,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.49,Dinheiro,Balcão
+2025-03-23 12:38,Curitiba - Batel,Café Gelado,Bebida Gelada,1,11.97,Cartão,Balcão
+2025-06-25 07:31,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.2,Pix,Delivery
+2024-08-12 17:46,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.65,Cartão,Delivery
+2025-10-14 08:51,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.24,Cartão,App
+2024-07-28 08:29,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.96,Cartão,Balcão
+2025-06-17 14:20,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,14.0,Cartão,Balcão
+2024-02-10 18:50,São Paulo - Paulista,Croissant,Comida,1,11.8,Cartão,Balcão
+2024-11-24 07:29,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.17,Dinheiro,Balcão
+2024-06-27 21:05,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,10.22,Cartão,Delivery
+2024-06-24 09:59,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.13,Cartão,Balcão
+2025-03-17 15:31,São Paulo - Paulista,Sanduíche Natural,Comida,2,15.39,Cartão,Delivery
+2024-06-13 21:10,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,4.96,Cartão,Balcão
+2025-07-31 10:00,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.75,Cartão,App
+2024-05-27 17:21,São Paulo - Paulista,Pão de Queijo,Comida,1,6.84,Cartão,Balcão
+2025-11-16 10:29,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.31,Cartão,Delivery
+2025-10-15 21:13,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.65,Pix,App
+2024-02-18 08:23,Porto Alegre - Moinhos,Latte,Bebida Quente,3,11.67,Pix,Delivery
+2025-09-23 11:46,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.17,Pix,Balcão
+2025-12-05 11:54,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,2,11.88,Cartão,Delivery
+2024-01-25 09:51,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.23,Cartão,Balcão
+2024-04-07 19:37,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,6.14,Pix,App
+2024-06-06 14:22,São Paulo - Paulista,Latte,Bebida Quente,1,12.88,Cartão,Balcão
+2025-08-29 13:57,Curitiba - Batel,Sanduíche Natural,Comida,1,15.93,Dinheiro,Balcão
+2024-06-20 10:44,Curitiba - Batel,Café Gelado,Bebida Gelada,2,12.32,Cartão,Balcão
+2025-12-03 11:23,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.67,Pix,Balcão
+2025-04-29 09:39,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,10.21,Cartão,App
+2024-10-26 07:18,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.18,Cartão,Balcão
+2025-07-07 07:07,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.98,Cartão,Balcão
+2025-06-16 20:36,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.18,Pix,App
+2025-07-28 10:55,São Paulo - Paulista,Latte,Bebida Quente,3,11.54,Pix,Delivery
+2024-07-03 07:56,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.94,Pix,Delivery
+2024-04-22 14:13,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.05,Dinheiro,Balcão
+2025-12-28 21:26,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.47,Cartão,Balcão
+2024-09-26 15:47,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.4,Cartão,Balcão
+2024-06-21 10:06,Rio de Janeiro - Ipanema,Croissant,Comida,3,11.84,Pix,App
+2025-06-24 14:38,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.6,Cartão,App
+2024-04-11 10:56,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.16,Cartão,Balcão
+2025-07-11 18:02,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.27,Pix,Balcão
+2025-02-07 07:17,Rio de Janeiro - Ipanema,Croissant,Comida,2,11.49,Pix,Balcão
+2024-05-20 08:00,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.59,Dinheiro,Balcão
+2024-11-04 11:13,Belo Horizonte - Savassi,Croissant,Comida,4,12.79,Pix,App
+2025-06-20 14:23,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.06,Pix,App
+2025-05-24 07:38,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.66,Pix,Balcão
+2025-11-24 08:01,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.96,Pix,App
+2025-07-19 09:51,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,9.62,Cartão,App
+2025-07-19 14:35,Curitiba - Batel,Café Expresso,Bebida Quente,1,5.71,Cartão,App
+2025-09-16 11:29,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,3,12.8,Pix,App
+2025-09-09 08:55,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.11,Cartão,Balcão
+2025-02-03 11:06,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.07,Pix,Balcão
+2025-05-26 13:44,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.61,Pix,Balcão
+2025-05-04 15:42,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.34,Pix,Balcão
+2025-05-15 13:01,Curitiba - Batel,Latte,Bebida Quente,1,11.71,Cartão,Balcão
+2024-07-19 08:34,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.3,Pix,App
+2024-07-27 10:29,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,13.09,Cartão,Delivery
+2024-07-06 19:05,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.99,Cartão,App
+2024-04-01 17:22,São Paulo - Paulista,Cappuccino,Bebida Quente,4,11.27,Cartão,Delivery
+2025-04-30 09:44,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.03,Cartão,Balcão
+2025-01-29 17:44,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.09,Dinheiro,Balcão
+2025-02-01 17:29,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.31,Cartão,Balcão
+2024-02-24 15:40,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,12.39,Pix,Delivery
+2024-08-20 09:20,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.65,Cartão,Balcão
+2024-06-30 08:02,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.85,Pix,Balcão
+2025-10-10 08:53,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.27,Dinheiro,Balcão
+2024-11-05 14:30,Porto Alegre - Moinhos,Latte,Bebida Quente,3,12.89,Pix,Delivery
+2025-12-17 19:16,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.32,Cartão,Balcão
+2024-10-22 09:02,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.04,Pix,App
+2024-02-14 09:20,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.82,Cartão,Balcão
+2024-11-13 12:22,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,13.76,Pix,Delivery
+2024-07-24 17:57,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.65,Cartão,Delivery
+2024-10-15 07:11,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,6.74,Pix,Balcão
+2025-08-23 11:23,Curitiba - Batel,Café Coado,Bebida Quente,1,5.07,Dinheiro,Balcão
+2025-12-23 08:47,Curitiba - Batel,Sanduíche Natural,Comida,2,15.3,Pix,App
+2025-09-14 09:42,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,10.38,Pix,Balcão
+2024-11-20 07:29,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,12.54,Cartão,Balcão
+2024-08-17 21:22,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.31,Cartão,Balcão
+2025-06-28 09:49,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.51,Pix,Balcão
+2024-12-05 12:12,Curitiba - Batel,Croissant,Comida,2,11.55,Cartão,Balcão
+2024-05-03 14:05,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.53,Cartão,Balcão
+2025-07-24 11:55,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.96,Pix,App
+2024-05-23 10:19,São Paulo - Paulista,Latte,Bebida Quente,1,11.89,Cartão,Balcão
+2025-03-04 15:38,São Paulo - Paulista,Pão de Queijo,Comida,1,7.03,Pix,Balcão
+2025-12-12 07:38,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.17,Cartão,Balcão
+2025-08-25 16:31,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.25,Pix,Balcão
+2024-08-16 11:18,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.62,Pix,Balcão
+2024-08-15 08:58,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.88,Cartão,Balcão
+2024-10-16 08:03,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,4.81,Cartão,App
+2024-10-03 14:09,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.37,Cartão,Balcão
+2025-07-18 07:18,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.48,Cartão,Delivery
+2024-06-15 13:06,Curitiba - Batel,Latte,Bebida Quente,2,12.33,Cartão,Delivery
+2024-11-28 10:45,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.1,Dinheiro,Balcão
+2025-07-18 07:33,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.01,Cartão,Balcão
+2024-11-25 09:56,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.04,Pix,Delivery
+2025-04-11 14:02,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.15,Pix,Balcão
+2024-07-20 15:28,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.2,Pix,Balcão
+2024-08-30 09:07,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,12.84,Cartão,Balcão
+2024-07-05 11:27,São Paulo - Paulista,Latte,Bebida Quente,1,11.89,Pix,Balcão
+2024-03-30 11:11,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.32,Dinheiro,Balcão
+2025-03-22 09:45,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,3,13.79,Cartão,Delivery
+2024-10-01 11:17,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,5.72,Pix,Balcão
+2024-03-12 11:18,Curitiba - Batel,Suco Natural,Bebida Gelada,1,9.63,Cartão,Balcão
+2025-12-27 17:13,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.88,Pix,Balcão
+2024-10-15 11:48,Curitiba - Batel,Latte,Bebida Quente,2,12.47,Cartão,Balcão
+2025-06-12 15:20,Porto Alegre - Moinhos,Latte,Bebida Quente,1,11.78,Cartão,App
+2025-12-04 11:30,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.13,Cartão,Balcão
+2024-06-02 16:34,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.79,Dinheiro,Balcão
+2025-09-19 11:58,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.63,Pix,Balcão
+2025-04-13 10:10,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,13.0,Pix,Balcão
+2024-07-09 09:00,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.87,Cartão,App
+2025-05-24 18:40,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.88,Pix,Balcão
+2024-06-20 19:05,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.21,Cartão,Balcão
+2024-02-21 07:03,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.25,Pix,Balcão
+2025-06-10 07:26,São Paulo - Paulista,Café Expresso,Bebida Quente,3,6.14,Cartão,Balcão
+2025-06-21 09:07,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.95,Pix,App
+2024-06-10 08:04,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.04,Pix,Delivery
+2025-03-31 11:21,São Paulo - Paulista,Bolo de Cenoura,Comida,2,10.05,Pix,App
+2025-10-11 07:50,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.23,Cartão,Balcão
+2024-05-29 14:00,São Paulo - Paulista,Croissant,Comida,1,11.81,Pix,Balcão
+2024-01-24 09:53,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,3,10.29,Pix,App
+2025-01-16 09:19,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,3,7.44,Cartão,App
+2025-12-25 07:25,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.52,Pix,Balcão
+2024-09-18 20:45,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,3,13.62,Cartão,App
+2025-05-01 18:59,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.44,Cartão,Balcão
+2025-02-23 15:21,Curitiba - Batel,Cappuccino,Bebida Quente,1,10.77,Pix,App
+2025-01-17 16:13,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.33,Pix,Balcão
+2024-08-28 17:10,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.55,Dinheiro,Balcão
+2025-02-23 17:16,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,9.65,Pix,Balcão
+2024-01-15 15:56,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,2,12.73,Pix,Balcão
+2025-09-15 07:25,Curitiba - Batel,Croissant,Comida,4,12.87,Pix,App
+2024-11-14 11:17,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,13.23,Cartão,App
+2024-08-25 20:14,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.67,Pix,Balcão
+2024-03-18 09:55,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.85,Pix,Delivery
+2025-01-20 08:42,Rio de Janeiro - Ipanema,Croissant,Comida,2,11.8,Pix,Balcão
+2024-04-05 12:59,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.13,Cartão,Balcão
+2025-06-23 12:04,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,16.86,Cartão,App
+2024-07-14 07:43,Belo Horizonte - Savassi,Croissant,Comida,3,12.44,Cartão,App
+2024-03-06 10:53,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.45,Pix,Delivery
+2024-10-16 21:17,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,13.11,Pix,Delivery
+2024-09-27 21:43,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.91,Pix,Balcão
+2025-04-11 07:10,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.21,Cartão,Delivery
+2024-03-26 16:25,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.26,Pix,App
+2024-05-25 18:10,Curitiba - Batel,Pão de Queijo,Comida,2,6.84,Cartão,Delivery
+2025-12-27 14:18,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.94,Cartão,Balcão
+2025-05-12 11:50,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.2,Pix,Balcão
+2025-08-16 11:56,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.38,Cartão,App
+2025-06-24 14:01,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.65,Cartão,Balcão
+2024-05-31 07:17,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.25,Dinheiro,Balcão
+2025-08-16 10:40,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.51,Dinheiro,Balcão
+2025-05-02 13:43,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.02,Cartão,App
+2024-07-28 10:00,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,3,9.4,Pix,App
+2024-07-05 11:35,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.87,Cartão,App
+2025-05-28 14:43,Curitiba - Batel,Cappuccino,Bebida Quente,3,11.31,Pix,Delivery
+2024-09-09 10:30,São Paulo - Paulista,Latte,Bebida Quente,1,12.47,Cartão,Delivery
+2024-11-05 09:23,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.87,Pix,Balcão
+2025-05-08 12:27,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.15,Cartão,Balcão
+2025-08-26 08:52,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.79,Cartão,Delivery
+2024-01-23 08:11,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,9.8,Dinheiro,Balcão
+2024-02-03 11:22,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.23,Pix,App
+2025-08-24 08:25,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.98,Cartão,Balcão
+2024-12-27 10:56,Curitiba - Batel,Bolo de Chocolate,Comida,2,11.29,Cartão,App
+2025-01-15 11:56,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,3,10.51,Cartão,Delivery
+2024-03-10 15:55,Curitiba - Batel,Café Expresso,Bebida Quente,1,5.79,Cartão,Balcão
+2024-12-22 16:25,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.11,Cartão,Balcão
+2024-08-02 20:54,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.57,Cartão,App
+2025-11-12 15:46,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.56,Cartão,Balcão
+2024-08-31 13:22,São Paulo - Paulista,Latte,Bebida Quente,1,12.36,Cartão,Balcão
+2024-04-07 10:48,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.64,Dinheiro,Balcão
+2024-04-23 10:21,São Paulo - Paulista,Croissant,Comida,1,12.07,Cartão,Balcão
+2024-12-05 08:22,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,4,12.81,Cartão,Delivery
+2024-04-26 09:51,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,12.74,Cartão,Balcão
+2024-07-17 08:11,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,7.4,Cartão,Delivery
+2024-07-02 08:36,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.82,Dinheiro,Balcão
+2024-01-08 20:40,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,12.72,Dinheiro,Balcão
+2024-03-03 10:19,Curitiba - Batel,Bolo de Cenoura,Comida,4,9.57,Cartão,App
+2025-05-19 19:36,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.52,Pix,App
+2024-08-06 13:58,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.59,Pix,Balcão
+2025-07-12 08:54,Curitiba - Batel,Latte,Bebida Quente,1,12.58,Dinheiro,Balcão
+2025-10-03 15:57,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,4,16.12,Cartão,Delivery
+2024-08-09 09:27,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,4,13.9,Pix,Delivery
+2025-06-17 08:33,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.2,Cartão,App
+2025-07-22 20:51,São Paulo - Paulista,Sanduíche Natural,Comida,2,16.2,Pix,Balcão
+2025-04-24 10:05,Curitiba - Batel,Café Expresso,Bebida Quente,3,6.17,Pix,Delivery
+2024-08-09 09:14,Curitiba - Batel,Croissant,Comida,1,11.76,Pix,Delivery
+2025-08-21 18:03,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,10.88,Cartão,Balcão
+2024-06-30 11:32,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.56,Cartão,App
+2025-08-28 08:31,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.23,Pix,Balcão
+2025-06-10 11:18,São Paulo - Paulista,Latte,Bebida Quente,1,12.05,Pix,Delivery
+2025-07-04 19:58,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,15.48,Cartão,Delivery
+2025-03-18 13:38,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.63,Pix,Balcão
+2025-07-27 15:48,Curitiba - Batel,Latte,Bebida Quente,1,12.74,Pix,Balcão
+2024-06-22 07:00,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.82,Pix,Balcão
+2024-11-06 08:16,Curitiba - Batel,Suco Natural,Bebida Gelada,3,9.69,Cartão,App
+2025-12-11 10:16,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.6,Pix,Balcão
+2025-09-03 18:12,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,2,13.07,Pix,Balcão
+2025-01-29 18:54,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.99,Cartão,App
+2025-08-22 14:08,Belo Horizonte - Savassi,Croissant,Comida,1,12.63,Pix,Balcão
+2025-12-06 16:36,Curitiba - Batel,Latte,Bebida Quente,2,11.5,Cartão,Balcão
+2025-08-31 19:23,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.88,Cartão,Balcão
+2025-11-09 19:54,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.36,Cartão,Delivery
+2024-06-02 16:02,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.6,Pix,Delivery
+2025-04-17 11:52,Curitiba - Batel,Bolo de Cenoura,Comida,2,9.16,Pix,Delivery
+2025-06-23 11:59,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.37,Cartão,Delivery
+2024-05-15 13:57,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,14.03,Cartão,Delivery
+2025-09-18 15:10,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,13.05,Cartão,Balcão
+2024-06-06 10:27,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,12.81,Cartão,App
+2024-05-10 07:59,Curitiba - Batel,Café Coado,Bebida Quente,1,5.26,Pix,App
+2025-05-27 19:49,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,12.43,Pix,Balcão
+2024-05-19 20:26,Curitiba - Batel,Latte,Bebida Quente,1,11.45,Cartão,Balcão
+2025-09-07 18:20,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,5.88,Dinheiro,Balcão
+2024-01-05 12:08,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,10.52,Pix,App
+2024-08-07 08:23,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.31,Cartão,App
+2024-07-10 08:13,Belo Horizonte - Savassi,Latte,Bebida Quente,3,12.43,Cartão,Delivery
+2024-09-16 09:27,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,6.88,Pix,Delivery
+2024-01-16 10:20,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.59,Cartão,Balcão
+2025-07-22 21:56,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.76,Pix,App
+2025-10-14 08:24,Rio de Janeiro - Ipanema,Croissant,Comida,2,12.88,Cartão,Balcão
+2024-09-16 21:41,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.77,Pix,App
+2024-10-30 11:29,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.87,Cartão,Balcão
+2024-12-05 11:19,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.07,Cartão,Delivery
+2025-06-21 11:55,São Paulo - Paulista,Pão de Queijo,Comida,2,7.19,Pix,App
+2025-11-19 15:24,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,12.35,Cartão,App
+2024-03-01 21:50,São Paulo - Paulista,Latte,Bebida Quente,1,12.53,Cartão,Balcão
+2024-08-21 09:38,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.63,Cartão,Balcão
+2025-03-10 11:13,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.5,,Balcão
+2024-05-05 07:03,Curitiba - Batel,Sanduíche Natural,Comida,2,17.04,Pix,Balcão
+2024-05-25 18:28,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.93,Pix,App
+2024-10-07 13:53,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.03,Pix,Balcão
+2025-01-21 08:42,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.97,Cartão,App
+2025-06-26 12:21,Curitiba - Batel,Pão de Queijo,Comida,2,7.52,Cartão,Balcão
+2025-02-20 11:12,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.92,Dinheiro,Balcão
+2025-09-09 15:14,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.88,Pix,App
+2025-07-28 17:17,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.38,Pix,Delivery
+2025-07-01 18:55,Curitiba - Batel,Café Coado,Bebida Quente,1,4.88,Cartão,Delivery
+2025-06-24 13:44,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.72,Pix,Balcão
+2024-06-01 08:46,São Paulo - Paulista,Pão de Queijo,Comida,1,7.18,Pix,Delivery
+2025-09-27 08:10,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.76,Pix,Balcão
+2025-07-31 10:43,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.36,Cartão,App
+2024-11-19 10:07,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.33,Pix,App
+2024-03-05 15:06,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.23,,App
+2024-12-19 16:38,Rio de Janeiro - Ipanema,Croissant,Comida,2,12.11,Pix,Balcão
+2024-02-21 10:43,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,3,4.91,Pix,App
+2025-04-25 11:08,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.95,Cartão,Balcão
+2025-08-27 08:59,Curitiba - Batel,Bolo de Chocolate,Comida,2,11.16,Pix,Balcão
+2025-07-04 10:30,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.39,Cartão,Balcão
+2025-12-31 12:39,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.33,Pix,Balcão
+2024-09-16 09:27,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,6.88,Pix,Delivery
+2024-05-25 16:18,Porto Alegre - Moinhos,Latte,Bebida Quente,2,12.04,Pix,Balcão
+2024-03-22 18:19,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,12.67,Dinheiro,Balcão
+2025-05-31 12:29,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.87,Pix,App
+2025-06-02 11:01,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.82,Pix,Balcão
+2025-04-20 08:54,Curitiba - Batel,Croissant,Comida,1,11.87,Cartão,Balcão
+2025-09-28 18:29,São Paulo - Paulista,Latte,Bebida Quente,1,12.15,Cartão,Balcão
+2024-04-19 10:35,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.03,Pix,Balcão
+2025-05-06 20:49,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.92,Cartão,Delivery
+2024-02-15 19:04,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,2,10.09,Pix,Balcão
+2025-09-22 07:39,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.3,Cartão,Balcão
+2024-01-05 11:31,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.5,Cartão,Balcão
+2024-01-03 19:16,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.06,Pix,App
+2025-04-03 14:39,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.76,Cartão,App
+2024-06-17 09:06,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.69,Cartão,Balcão
+2025-07-30 08:34,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.99,Cartão,Balcão
+2025-01-28 13:33,Rio de Janeiro - Ipanema,Latte,Bebida Quente,4,12.34,Cartão,Balcão
+2024-08-21 12:05,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.36,Cartão,Balcão
+2024-10-20 10:05,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.54,Cartão,Balcão
+2024-02-18 17:34,São Paulo - Paulista,Pão de Queijo,Comida,1,6.79,Cartão,Balcão
+2025-05-04 14:40,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.05,Cartão,Balcão
+2024-02-26 09:03,Porto Alegre - Moinhos,Café Coado,Bebida Quente,3,4.92,Cartão,App
+2025-06-10 11:42,Rio de Janeiro - Ipanema,Croissant,Comida,2,11.54,Pix,Balcão
+2024-11-14 07:55,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,10.04,Pix,App
+2024-04-19 20:26,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.76,Cartão,Delivery
+2024-11-01 18:32,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.38,Pix,Balcão
+2024-11-15 14:27,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.73,Pix,Balcão
+2024-06-29 07:52,Belo Horizonte - Savassi,Latte,Bebida Quente,4,11.78,Pix,App
+2025-06-26 13:40,São Paulo - Paulista,Bolo de Chocolate,Comida,3,10.92,,App
+2025-08-15 09:30,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,3,13.32,Cartão,Delivery
+2024-06-25 08:47,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.28,Pix,Balcão
+2024-12-08 19:47,Curitiba - Batel,Cappuccino,Bebida Quente,1,10.98,Cartão,Balcão
+2024-05-27 13:22,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,5.83,Cartão,Balcão
+2024-07-29 13:17,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,13.4,Cartão,Balcão
+2025-07-26 14:36,Porto Alegre - Moinhos,Croissant,Comida,2,12.42,,Balcão
+2024-03-05 07:34,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.32,Pix,App
+2025-02-23 15:00,São Paulo - Paulista,Pão de Queijo,Comida,2,7.24,Cartão,Balcão
+2024-09-15 10:02,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,12.96,Pix,App
+2025-04-14 16:08,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,15.95,Pix,Delivery
+2024-06-09 10:31,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,3,9.92,Cartão,Delivery
+2024-12-12 14:13,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.92,Cartão,App
+2024-06-11 09:37,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.64,Cartão,App
+2024-08-07 18:09,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.77,Pix,Delivery
+2025-10-07 17:54,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,17.23,Pix,Balcão
+2025-09-12 16:21,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.95,Cartão,App
+2024-10-13 07:57,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.03,Cartão,App
+2025-03-12 10:33,São Paulo - Paulista,Latte,Bebida Quente,2,11.85,Pix,Balcão
+2025-08-24 15:26,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.78,Cartão,App
+2025-06-26 17:04,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.16,Cartão,Balcão
+2024-08-19 08:15,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,15.84,Pix,App
+2025-08-31 08:04,Belo Horizonte - Savassi,Croissant,Comida,2,12.72,Cartão,Balcão
+2025-05-17 08:43,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.35,Dinheiro,Balcão
+2024-02-01 15:10,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,6.29,Pix,Balcão
+2025-05-18 14:53,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.65,Cartão,Balcão
+2025-02-05 21:34,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.6,Dinheiro,Balcão
+2025-07-26 11:31,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.46,Cartão,Balcão
+2025-12-16 12:35,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.73,Cartão,Balcão
+2024-09-26 09:50,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.32,Pix,Balcão
+2025-07-05 10:48,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.79,Pix,App
+2025-02-03 09:12,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.29,Dinheiro,Balcão
+2025-04-05 09:22,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.81,Cartão,Balcão
+2025-08-05 08:39,São Paulo - Paulista,Latte,Bebida Quente,1,12.29,Pix,Delivery
+2025-06-19 10:04,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.49,Cartão,Balcão
+2025-09-24 10:06,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.19,Cartão,Balcão
+2025-03-09 17:21,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.88,Pix,App
+2024-08-14 15:19,Curitiba - Batel,Pão de Queijo,Comida,1,6.78,Pix,Balcão
+2024-07-19 18:40,Porto Alegre - Moinhos,Sanduíche Natural,Comida,3,15.52,Cartão,App
+2024-04-09 11:12,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,10.5,Cartão,Delivery
+2025-10-12 09:26,São Paulo - Paulista,Latte,Bebida Quente,1,11.46,Pix,Balcão
+2025-08-21 07:24,Porto Alegre - Moinhos,Pão de Queijo,Comida,4,7.07,Pix,App
+2024-10-28 14:19,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,7.5,Cartão,App
+2025-04-03 15:16,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.45,,Balcão
+2025-07-17 10:23,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.35,Cartão,Delivery
+2025-01-27 07:20,São Paulo - Paulista,Croissant,Comida,2,12.15,Pix,Delivery
+2025-03-06 07:37,São Paulo - Paulista,Café Gelado,Bebida Gelada,4,12.48,Pix,Balcão
+2025-09-11 14:49,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.44,Dinheiro,Balcão
+2025-02-28 08:10,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,10.53,Pix,Delivery
+2024-06-16 20:46,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,11.96,Cartão,App
+2025-06-22 09:49,Curitiba - Batel,Café Coado,Bebida Quente,2,5.2,Pix,Balcão
+2024-06-26 10:50,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.54,Pix,Delivery
+2024-09-19 08:33,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.36,Cartão,App
+2025-08-03 07:36,Porto Alegre - Moinhos,Latte,Bebida Quente,2,11.89,Pix,Balcão
+2025-07-01 16:15,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.8,Cartão,Delivery
+2024-08-19 10:35,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,3,6.34,Pix,Balcão
+2024-12-08 16:24,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.88,Cartão,Balcão
+2024-02-28 10:51,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.07,Cartão,Balcão
+2025-11-30 11:37,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.63,Cartão,Balcão
+2024-08-24 16:13,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.29,Pix,Delivery
+2024-06-22 09:18,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,16.86,Cartão,App
+2025-08-12 13:14,Curitiba - Batel,Café Coado,Bebida Quente,1,4.98,Cartão,Balcão
+2025-12-19 07:56,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.54,Pix,Delivery
+2024-06-18 17:07,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.34,Cartão,Balcão
+2025-05-10 15:18,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.15,Cartão,Balcão
+2025-05-28 15:19,Curitiba - Batel,Café Coado,Bebida Quente,1,5.13,Cartão,Balcão
+2025-04-22 10:52,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.87,Cartão,Balcão
+2024-08-02 14:57,São Paulo - Paulista,Pão de Queijo,Comida,1,7.01,Cartão,Balcão
+2024-08-20 18:00,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.77,Cartão,Delivery
+2024-09-01 10:34,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.55,Cartão,Balcão
+2025-07-12 15:30,Curitiba - Batel,Bolo de Chocolate,Comida,2,10.94,Pix,App
+2025-07-09 21:49,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,2,11.07,Cartão,App
+2024-04-02 18:27,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,3,10.89,Pix,Delivery
+2024-03-02 08:05,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.8,Pix,Delivery
+2024-09-18 17:21,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.39,Cartão,Delivery
+2025-09-24 09:31,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.48,Pix,Balcão
+2024-06-04 10:20,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,10.02,Pix,Balcão
+2024-03-14 09:49,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,10.51,Cartão,App
+2025-08-20 14:33,Belo Horizonte - Savassi,Sanduíche Natural,Comida,3,16.6,Pix,Balcão
+2024-08-30 16:46,São Paulo - Paulista,Croissant,Comida,1,12.17,Cartão,Balcão
+2024-11-20 12:53,São Paulo - Paulista,Bolo de Cenoura,Comida,3,10.04,Pix,Delivery
+2024-09-20 20:21,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,2,11.23,Cartão,App
+2025-01-08 09:48,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.84,Cartão,App
+2024-07-02 07:36,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,6.89,Pix,Balcão
+2025-05-20 19:11,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,10.05,Pix,Delivery
+2025-10-23 20:00,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,7.53,Cartão,App
+2024-10-13 07:59,São Paulo - Paulista,Croissant,Comida,1,12.65,Dinheiro,Balcão
+2025-10-15 07:06,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.03,Cartão,App
+2024-12-10 11:04,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,9.8,Pix,Delivery
+2024-06-02 16:41,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.73,Pix,Balcão
+2024-09-07 11:56,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,7.07,Cartão,Delivery
+2025-01-03 09:20,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.7,Pix,Balcão
+2024-06-17 16:38,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.77,Cartão,App
+2024-02-25 10:48,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.86,Cartão,Balcão
+2024-09-06 11:35,Curitiba - Batel,Café Gelado,Bebida Gelada,2,12.43,Cartão,Balcão
+2025-03-25 07:34,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.5,Cartão,Balcão
+2025-10-31 07:07,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.3,Cartão,Balcão
+2024-06-22 15:46,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.8,Pix,App
+2025-01-07 09:20,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.22,Dinheiro,Balcão
+2024-01-03 16:05,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.45,Cartão,Balcão
+2024-01-20 10:37,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.09,Pix,Balcão
+2025-12-13 12:27,Curitiba - Batel,Latte,Bebida Quente,1,12.67,Pix,Balcão
+2025-12-22 11:39,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.51,Pix,Delivery
+2024-02-07 16:12,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.55,Pix,Balcão
+2025-05-12 14:34,São Paulo - Paulista,Sanduíche Natural,Comida,2,15.72,Dinheiro,Balcão
+2025-07-27 08:51,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.56,Pix,Balcão
+2024-11-18 09:14,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.35,Cartão,Balcão
+2025-08-09 10:05,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,10.94,Dinheiro,Balcão
+2025-05-31 11:05,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.02,Pix,Delivery
+2024-01-29 13:07,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,17.17,Cartão,App
+2024-08-18 14:42,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,4.88,Pix,Balcão
+2025-07-19 15:56,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.32,Pix,Delivery
+2025-07-04 14:36,Curitiba - Batel,Bolo de Cenoura,Comida,1,10.01,Cartão,Balcão
+2025-03-23 20:14,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.54,Cartão,App
+2025-03-21 11:28,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,5.82,Pix,App
+2024-03-16 09:41,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.27,Pix,Balcão
+2024-07-28 11:24,São Paulo - Paulista,Pão de Queijo,Comida,1,7.01,Dinheiro,Balcão
+2024-02-14 07:41,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,6.07,,Balcão
+2025-01-31 15:35,Curitiba - Batel,Pão de Queijo,Comida,2,7.17,Pix,Delivery
+2025-04-18 11:46,Curitiba - Batel,Café Gelado,Bebida Gelada,3,13.4,Pix,Balcão
+2025-03-02 14:28,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.19,Pix,Balcão
+2024-06-15 12:12,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.29,Dinheiro,Balcão
+2025-04-10 17:26,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.7,Cartão,Balcão
+2025-09-28 10:19,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.06,Cartão,Balcão
+2024-09-07 07:30,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.8,Pix,Balcão
+2025-09-27 09:07,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.53,Pix,Balcão
+2024-11-13 09:14,São Paulo - Paulista,Pão de Queijo,Comida,2,6.9,Pix,Delivery
+2024-10-30 11:53,Curitiba - Batel,Croissant,Comida,1,11.48,Cartão,Balcão
+2024-05-17 08:58,Curitiba - Batel,Chocolate Quente,Bebida Quente,4,12.79,Cartão,Delivery
+2025-03-27 16:55,Curitiba - Batel,Pão de Queijo,Comida,2,6.82,Cartão,App
+2024-08-20 18:28,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.64,Cartão,Balcão
+2024-06-11 07:46,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.91,,Balcão
+2025-12-27 20:13,São Paulo - Paulista,Pão de Queijo,Comida,1,6.96,Cartão,Balcão
+2025-06-20 10:17,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,5.11,Dinheiro,Balcão
+2025-04-13 07:08,Porto Alegre - Moinhos,Croissant,Comida,1,12.66,Pix,Balcão
+2024-04-23 10:42,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.59,Pix,Balcão
+2025-10-16 20:49,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.19,Cartão,App
+2025-11-19 19:13,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.12,Pix,Balcão
+2025-01-08 08:11,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.16,Pix,App
+2025-11-23 08:02,Curitiba - Batel,Cappuccino,Bebida Quente,2,10.68,Pix,Delivery
+2024-10-20 16:07,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.9,Cartão,App
+2025-05-27 09:53,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,4.86,Cartão,Balcão
+2024-07-02 08:54,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.83,Cartão,Delivery
+2025-09-09 13:24,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.07,Cartão,Balcão
+2024-11-03 14:04,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.54,Pix,Delivery
+2024-11-21 14:15,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.0,Pix,Delivery
+2024-05-21 07:26,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,3,10.67,Cartão,Balcão
+2024-07-03 16:52,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.39,Cartão,App
+2025-08-20 07:56,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.41,Cartão,Balcão
+2025-01-11 10:10,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.31,Pix,Balcão
+2025-06-09 21:07,Curitiba - Batel,Sanduíche Natural,Comida,1,15.25,Pix,Balcão
+2025-09-02 11:20,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.94,Cartão,Balcão
+2024-06-30 11:38,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,10.77,Cartão,App
+2025-06-14 09:17,Curitiba - Batel,Cappuccino,Bebida Quente,2,11.1,Cartão,Delivery
+2025-08-29 20:06,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,3,10.96,Cartão,Delivery
+2024-06-04 13:28,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.45,Pix,Balcão
+2025-04-19 09:10,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,17.22,Pix,Balcão
+2024-07-01 07:22,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,5.97,Cartão,Delivery
+2025-09-19 07:37,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,3,10.52,Pix,App
+2024-06-02 20:27,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.23,Pix,Delivery
+2025-06-29 21:34,Curitiba - Batel,Pão de Queijo,Comida,1,7.33,Dinheiro,Balcão
+2025-09-12 15:08,São Paulo - Paulista,Bolo de Chocolate,Comida,1,11.13,Pix,Balcão
+2025-08-08 07:09,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.11,Cartão,Balcão
+2025-07-20 09:28,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.83,Cartão,Balcão
+2024-08-28 09:57,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,12.88,Cartão,Balcão
+2024-12-13 15:58,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,9.55,Pix,Balcão
+2024-06-19 08:44,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.02,Dinheiro,Balcão
+2025-02-14 19:13,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.64,Dinheiro,Balcão
+2025-11-09 08:23,São Paulo - Paulista,Latte,Bebida Quente,1,11.44,Pix,Balcão
+2025-07-24 11:28,Curitiba - Batel,Croissant,Comida,1,12.45,Cartão,App
+2025-11-09 18:08,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.04,Cartão,Delivery
+2024-10-29 11:08,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.79,Cartão,App
+2024-07-18 10:03,Curitiba - Batel,Cappuccino,Bebida Quente,2,10.49,Pix,App
+2024-07-30 20:54,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,3,12.9,Cartão,App
+2025-07-09 09:20,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.25,Cartão,App
+2024-01-29 21:17,Curitiba - Batel,Cappuccino,Bebida Quente,1,10.46,Cartão,Balcão
+2025-07-30 10:00,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.17,Pix,Balcão
+2025-06-06 11:28,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.51,Pix,Delivery
+2025-03-05 21:40,São Paulo - Paulista,Suco Natural,Bebida Gelada,4,9.92,Pix,Balcão
+2024-03-18 14:09,São Paulo - Paulista,Croissant,Comida,1,12.95,Cartão,Balcão
+2025-06-13 15:27,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.1,Cartão,Balcão
+2024-10-18 09:08,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.62,Dinheiro,Balcão
+2024-02-02 12:30,São Paulo - Paulista,Croissant,Comida,1,12.06,Pix,Balcão
+2025-12-14 21:18,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,2,10.39,Pix,Balcão
+2025-05-17 14:18,Curitiba - Batel,Sanduíche Natural,Comida,2,15.4,Cartão,Delivery
+2024-06-27 14:26,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.61,Pix,App
+2025-07-27 10:07,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.87,Pix,Balcão
+2025-08-21 16:20,Rio de Janeiro - Ipanema,Croissant,Comida,2,11.59,Cartão,Balcão
+2025-04-16 14:25,Curitiba - Batel,Suco Natural,Bebida Gelada,3,9.7,Pix,App
+2024-02-26 07:22,São Paulo - Paulista,Cappuccino,Bebida Quente,3,10.99,Cartão,App
+2024-09-26 10:46,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.6,Cartão,Balcão
+2025-09-29 12:19,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.42,Pix,App
+2024-01-23 08:32,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,10.86,Pix,Balcão
+2024-12-05 11:46,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.66,Pix,App
+2025-08-17 07:00,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,12.2,Pix,Balcão
+2025-08-08 09:39,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,9.07,Cartão,Balcão
+2024-08-22 12:05,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,4,5.72,Pix,App
+2025-10-29 13:26,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,11.12,Cartão,App
+2025-02-02 13:36,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,4,10.31,Cartão,Delivery
+2025-03-01 10:35,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.91,Cartão,Balcão
+2024-03-24 09:27,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.28,Dinheiro,Balcão
+2024-08-04 08:36,Porto Alegre - Moinhos,Latte,Bebida Quente,4,11.52,Pix,Delivery
+2025-03-28 08:08,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.27,Cartão,Balcão
+2025-09-19 12:02,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.37,Pix,App
+2025-03-14 07:02,Belo Horizonte - Savassi,Pão de Queijo,Comida,4,6.87,Cartão,Balcão
+2024-05-18 21:59,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.19,Pix,Balcão
+2024-07-28 10:15,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.63,Pix,Balcão
+2024-12-04 08:59,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.48,Pix,App
+2024-07-07 10:34,Belo Horizonte - Savassi,Croissant,Comida,4,12.94,Cartão,Delivery
+2024-11-13 21:08,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,7.17,Pix,Balcão
+2025-09-30 09:41,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,3,11.38,Pix,Delivery
+2024-12-27 10:23,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.31,Pix,Balcão
+2025-05-29 11:03,Curitiba - Batel,Suco Natural,Bebida Gelada,2,10.02,Pix,Delivery
+2025-02-08 21:48,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,17.27,Cartão,App
+2024-04-28 12:24,Curitiba - Batel,Café Coado,Bebida Quente,1,4.9,Cartão,App
+2024-07-15 07:23,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.2,Dinheiro,Balcão
+2024-06-11 20:56,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,10.08,Dinheiro,Balcão
+2024-10-15 18:53,Curitiba - Batel,Suco Natural,Bebida Gelada,3,10.23,Cartão,Delivery
+2025-11-27 15:56,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.65,Pix,Balcão
+2025-09-02 17:42,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.19,Pix,Balcão
+2025-05-12 16:19,Curitiba - Batel,Sanduíche Natural,Comida,1,16.73,Cartão,Balcão
+2024-07-15 11:25,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,10.17,Cartão,App
+2024-05-24 11:03,São Paulo - Paulista,Sanduíche Natural,Comida,3,15.35,Cartão,Balcão
+2024-07-13 18:24,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.15,Cartão,Delivery
+2025-07-11 07:24,São Paulo - Paulista,Sanduíche Natural,Comida,2,16.95,,App
+2024-10-15 08:19,São Paulo - Paulista,Café Coado,Bebida Quente,3,5.02,Pix,App
+2024-10-22 08:02,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.53,Cartão,Balcão
+2025-06-05 11:50,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,3,4.76,Cartão,Delivery
+2025-09-06 17:41,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,3,12.63,Cartão,Balcão
+2024-07-27 21:19,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.73,Cartão,App
+2024-08-10 08:51,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.7,Cartão,Balcão
+2024-05-16 20:12,Curitiba - Batel,Sanduíche Natural,Comida,2,16.21,Dinheiro,Balcão
+2024-11-30 17:01,Curitiba - Batel,Café Coado,Bebida Quente,1,5.29,Pix,Balcão
+2025-05-24 07:33,Belo Horizonte - Savassi,Croissant,Comida,2,12.26,Cartão,Delivery
+2025-10-09 17:29,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.3,Cartão,App
+2025-10-25 12:42,São Paulo - Paulista,Sanduíche Natural,Comida,4,17.12,Pix,App
+2025-07-09 18:43,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.07,Pix,Balcão
+2024-10-05 08:15,São Paulo - Paulista,Croissant,Comida,1,11.73,Cartão,Balcão
+2025-01-07 08:25,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.92,Pix,App
+2024-07-02 10:28,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.88,Cartão,Balcão
+2024-08-02 07:23,São Paulo - Paulista,Cappuccino,Bebida Quente,3,11.01,Pix,Delivery
+2024-12-06 18:05,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,13.3,Cartão,Balcão
+2025-09-21 08:46,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.35,Cartão,Balcão
+2024-10-15 10:21,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,12.66,Pix,Balcão
+2024-11-19 09:34,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,3,4.79,Cartão,Delivery
+2025-04-04 12:04,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,3,9.84,Pix,Delivery
+2024-03-17 08:04,Belo Horizonte - Savassi,Sanduíche Natural,Comida,3,16.75,Cartão,Balcão
+2025-01-29 15:39,Curitiba - Batel,Latte,Bebida Quente,2,12.54,Pix,App
+2024-03-15 11:40,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,7.16,Pix,Balcão
+2024-12-12 08:25,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.25,Cartão,App
+2024-08-10 09:59,São Paulo - Paulista,Café Coado,Bebida Quente,3,5.26,Cartão,Balcão
+2025-07-13 10:05,Curitiba - Batel,Latte,Bebida Quente,2,12.61,Cartão,App
+2024-08-08 11:08,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,3,16.11,Cartão,App
+2025-10-23 18:31,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,4,9.29,Pix,Balcão
+2025-07-26 10:41,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.58,Cartão,Balcão
+2024-06-11 09:31,São Paulo - Paulista,Latte,Bebida Quente,2,11.8,Cartão,Delivery
+2024-02-06 15:29,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.96,Pix,Balcão
+2025-09-17 07:17,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.81,Cartão,Balcão
+2024-02-21 19:48,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.15,Cartão,Balcão
+2025-06-21 09:43,Porto Alegre - Moinhos,Croissant,Comida,1,11.87,Pix,Balcão
+2024-05-25 07:46,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.44,Cartão,Balcão
+2025-01-19 12:21,Curitiba - Batel,Suco Natural,Bebida Gelada,3,9.73,Pix,App
+2025-05-25 14:04,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,10.17,Cartão,App
+2025-12-31 08:01,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.61,Pix,App
+2025-09-18 18:02,Curitiba - Batel,Cappuccino,Bebida Quente,1,10.62,,Delivery
+2024-12-25 10:19,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.51,Pix,Delivery
+2025-07-08 07:43,Belo Horizonte - Savassi,Pão de Queijo,Comida,3,7.22,Cartão,Delivery
+2025-11-11 07:23,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.6,Pix,Balcão
+2025-02-11 08:53,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,10.92,Cartão,App
+2025-05-09 14:43,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.65,Cartão,Balcão
+2024-08-28 12:32,São Paulo - Paulista,Sanduíche Natural,Comida,3,16.87,Pix,Delivery
+2025-06-27 16:12,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.84,,Balcão
+2024-02-17 14:44,São Paulo - Paulista,Croissant,Comida,3,11.94,Cartão,Delivery
+2024-06-09 10:29,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,3,9.26,Pix,App
+2024-10-13 08:58,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.25,Cartão,Delivery
+2024-02-27 11:48,São Paulo - Paulista,Café Gelado,Bebida Gelada,3,13.21,Cartão,App
+2025-06-30 07:20,Curitiba - Batel,Café Coado,Bebida Quente,2,4.94,Pix,App
+2024-02-02 15:01,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.0,Pix,Balcão
+2024-05-30 07:47,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.87,Pix,Delivery
+2025-06-01 12:48,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,9.98,Cartão,App
+2024-09-12 09:13,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,14.02,Dinheiro,Balcão
+2024-05-29 07:09,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.32,Cartão,App
+2025-12-09 07:08,Belo Horizonte - Savassi,Café Coado,Bebida Quente,4,5.14,Pix,Delivery
+2024-03-25 10:02,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.9,,Balcão
+2024-03-18 21:20,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.43,Pix,App
+2025-12-16 10:29,Curitiba - Batel,Café Gelado,Bebida Gelada,2,12.58,Pix,App
+2024-06-27 21:57,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.91,Pix,Delivery
+2024-07-07 17:46,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.01,Dinheiro,Balcão
+2025-08-24 11:31,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.24,Cartão,Balcão
+2024-10-07 12:32,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,15.68,Cartão,Balcão
+2024-05-06 12:22,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.42,Cartão,Balcão
+2025-08-09 13:23,São Paulo - Paulista,Latte,Bebida Quente,1,11.46,,Balcão
+2024-01-06 07:53,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.48,Cartão,Balcão
+2024-09-06 09:59,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.02,Cartão,Balcão
+2024-06-30 14:32,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.62,Cartão,Delivery
+2024-06-04 11:36,Curitiba - Batel,Croissant,Comida,1,12.45,Cartão,App
+2024-01-06 10:25,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.38,Cartão,Balcão
+2025-10-01 20:46,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,5.95,Cartão,App
+2024-08-09 09:53,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.2,Cartão,Balcão
+2024-12-24 07:03,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.41,Dinheiro,Balcão
+2025-01-29 18:21,Belo Horizonte - Savassi,Croissant,Comida,1,12.48,Pix,Balcão
+2025-07-25 07:29,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.22,Pix,Balcão
+2025-11-06 10:07,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.39,Cartão,Delivery
+2025-01-26 10:09,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.55,Cartão,Delivery
+2024-12-23 11:36,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.86,Pix,App
+2025-10-17 09:57,Curitiba - Batel,Sanduíche Natural,Comida,2,16.92,Pix,App
+2025-06-08 10:48,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.75,Cartão,Balcão
+2024-10-31 08:50,Belo Horizonte - Savassi,Latte,Bebida Quente,3,11.66,Cartão,Delivery
+2025-08-25 13:12,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.91,Pix,Balcão
+2024-02-11 07:39,Curitiba - Batel,Suco Natural,Bebida Gelada,1,9.81,Dinheiro,Balcão
+2024-08-13 14:00,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.66,Pix,App
+2024-03-18 07:22,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,15.5,Pix,Balcão
+2025-05-07 12:58,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,13.03,Pix,App
+2025-09-07 08:31,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.2,Cartão,Balcão
+2024-10-08 07:58,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.16,Cartão,Balcão
+2025-09-13 10:55,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,5.79,Dinheiro,Balcão
+2025-06-15 08:53,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.87,Cartão,Balcão
+2024-09-20 16:48,Porto Alegre - Moinhos,Café Coado,Bebida Quente,3,5.15,Pix,Balcão
+2024-07-20 20:42,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.59,Cartão,Delivery
+2024-04-04 09:28,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.58,Pix,Balcão
+2025-07-26 12:30,Curitiba - Batel,Latte,Bebida Quente,2,11.59,Cartão,Balcão
+2025-01-15 15:30,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,15.58,Cartão,Delivery
+2024-03-08 07:28,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.95,Pix,Balcão
+2025-07-09 09:20,Curitiba - Batel,Pão de Queijo,Comida,2,7.12,Cartão,Delivery
+2024-02-03 08:11,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.0,Pix,Balcão
+2024-09-07 19:24,Curitiba - Batel,Café Coado,Bebida Quente,1,5.29,Cartão,App
+2024-05-05 07:25,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,4.99,Pix,Balcão
+2025-03-10 16:50,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,6.37,Pix,App
+2024-02-15 15:54,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.41,Cartão,Balcão
+2025-07-30 08:32,Curitiba - Batel,Sanduíche Natural,Comida,1,17.22,Cartão,Balcão
+2024-06-16 11:41,São Paulo - Paulista,Bolo de Cenoura,Comida,2,10.25,Cartão,Delivery
+2025-09-01 16:50,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.8,Cartão,Balcão
+2024-01-05 17:55,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.14,Dinheiro,Balcão
+2024-07-19 16:14,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,6.81,Pix,Balcão
+2024-01-05 10:45,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,12.64,Pix,App
+2025-11-27 21:11,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,10.45,Pix,Delivery
+2025-11-29 17:29,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,4,9.53,Pix,Balcão
+2025-12-08 08:00,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.05,Cartão,App
+2025-01-09 09:48,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.24,Dinheiro,Balcão
+2025-07-27 12:12,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,6.98,Pix,Delivery
+2024-06-26 16:12,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.41,Pix,Balcão
+2025-06-06 15:00,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.47,Cartão,Delivery
+2025-07-12 18:50,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,5.86,Pix,Balcão
+2025-04-06 17:38,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.12,Pix,Balcão
+2024-11-11 08:12,Porto Alegre - Moinhos,Croissant,Comida,3,12.4,Pix,App
+2025-06-28 10:33,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,2,13.45,Pix,App
+2025-05-21 10:38,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.75,Cartão,App
+2025-03-12 11:24,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,3,5.2,Pix,Delivery
+2024-06-25 09:37,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,6.71,Dinheiro,Balcão
+2025-04-21 10:25,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.22,Cartão,App
+2024-07-21 11:10,Curitiba - Batel,Croissant,Comida,3,12.96,Cartão,App
+2025-12-03 08:13,Porto Alegre - Moinhos,Croissant,Comida,1,12.6,Cartão,App
+2025-01-24 08:47,Porto Alegre - Moinhos,Croissant,Comida,1,12.53,Dinheiro,Balcão
+2024-06-17 09:24,Curitiba - Batel,Pão de Queijo,Comida,1,6.91,Pix,Balcão
+2025-10-01 10:09,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.93,Cartão,App
+2025-08-21 07:45,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,4.95,Pix,Balcão
+2025-05-15 18:31,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.39,Pix,Balcão
+2024-09-02 11:30,São Paulo - Paulista,Croissant,Comida,1,12.46,Cartão,Delivery
+2024-06-16 17:50,São Paulo - Paulista,Latte,Bebida Quente,1,11.99,Pix,App
+2025-08-24 21:18,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,10.76,Pix,Balcão
+2024-04-29 12:42,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.72,Pix,Balcão
+2024-06-02 07:35,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.63,,Balcão
+2025-03-15 21:42,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.51,Cartão,Balcão
+2024-03-03 11:09,Curitiba - Batel,Suco Natural,Bebida Gelada,1,10.53,Pix,Balcão
+2024-07-23 18:36,Porto Alegre - Moinhos,Latte,Bebida Quente,4,12.94,Cartão,App
+2024-09-13 07:43,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.28,Pix,Balcão
+2025-09-12 08:44,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.99,Pix,Balcão
+2025-01-19 10:57,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.01,Cartão,Balcão
+2025-01-23 09:33,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.11,Pix,Delivery
+2025-07-18 10:56,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.4,,Delivery
+2024-10-08 13:10,Curitiba - Batel,Café Expresso,Bebida Quente,1,5.77,Cartão,Balcão
+2025-06-29 11:37,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.0,Pix,Balcão
+2024-08-23 10:29,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.38,Cartão,App
+2024-02-23 16:58,Curitiba - Batel,Suco Natural,Bebida Gelada,2,9.69,Pix,Delivery
+2024-05-13 14:26,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.87,Pix,Balcão
+2024-02-07 11:03,São Paulo - Paulista,Croissant,Comida,3,12.75,Cartão,App
+2025-11-07 15:57,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,12.35,Cartão,Balcão
+2024-04-16 12:37,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.68,Pix,Balcão
+2025-07-07 17:05,São Paulo - Paulista,Croissant,Comida,1,12.61,Dinheiro,Balcão
+2025-07-27 11:01,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,4.76,Cartão,App
+2025-02-19 17:22,Curitiba - Batel,Pão de Queijo,Comida,2,7.31,Cartão,Delivery
+2025-03-06 08:06,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.63,Cartão,Balcão
+2025-05-27 16:36,Curitiba - Batel,Café Gelado,Bebida Gelada,3,12.2,Dinheiro,Balcão
+2025-02-01 07:23,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.51,Pix,Balcão
+2025-06-09 21:07,Curitiba - Batel,Sanduíche Natural,Comida,1,15.25,Pix,Balcão
+2025-05-15 11:10,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.98,Pix,Delivery
+2025-03-10 09:29,Curitiba - Batel,Suco Natural,Bebida Gelada,1,10.05,Cartão,Balcão
+2024-01-20 11:21,Curitiba - Batel,Croissant,Comida,4,12.25,Pix,App
+2024-07-07 14:28,São Paulo - Paulista,Pão de Queijo,Comida,2,7.12,Cartão,Balcão
+2025-08-06 10:54,Curitiba - Batel,Café Coado,Bebida Quente,1,5.32,Pix,Balcão
+2024-02-25 21:24,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,10.09,Cartão,Balcão
+2024-03-15 15:48,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,2,12.6,Cartão,App
+2024-10-04 09:56,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.55,Dinheiro,Balcão
+2024-05-03 10:05,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,3,13.97,Cartão,Balcão
+2024-02-22 15:15,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,16.75,Pix,Balcão
+2024-05-22 09:25,São Paulo - Paulista,Croissant,Comida,1,12.39,Cartão,Delivery
+2025-03-29 09:43,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.73,Cartão,Balcão
+2025-06-21 14:43,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.35,Cartão,Delivery
+2024-05-02 07:11,Curitiba - Batel,Latte,Bebida Quente,1,11.61,Pix,App
+2025-05-11 20:03,Curitiba - Batel,Croissant,Comida,1,12.29,Pix,Balcão
+2025-11-20 07:12,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.79,Pix,App
+2024-07-10 19:24,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,4.79,Cartão,Delivery
+2025-02-26 09:45,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.73,Cartão,App
+2025-08-03 15:50,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.62,Dinheiro,Balcão
+2025-01-31 09:40,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.45,Cartão,Balcão
+2024-10-26 17:34,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.32,Pix,App
+2025-10-12 09:34,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.27,Pix,App
+2025-01-22 07:46,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.06,Pix,Balcão
+2024-08-12 07:33,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.39,Cartão,Balcão
+2025-07-17 08:39,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.3,Cartão,Delivery
+2024-04-29 07:13,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.1,Cartão,Delivery
+2025-10-04 10:02,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.01,Pix,App
+2025-08-02 11:43,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.65,Dinheiro,Balcão
+2025-06-16 15:32,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.19,Pix,App
+2025-08-03 11:24,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,4,7.21,Pix,Balcão
+2025-08-21 21:22,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.28,Pix,Balcão
+2024-02-02 16:26,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,12.28,Cartão,Balcão
+2024-05-23 17:47,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,5.01,Pix,Balcão
+2024-06-29 20:27,São Paulo - Paulista,Croissant,Comida,1,11.66,Cartão,Balcão
+2025-05-04 10:01,Rio de Janeiro - Ipanema,Latte,Bebida Quente,4,12.24,Pix,App
+2024-07-10 09:00,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.84,Cartão,App
+2024-10-06 09:36,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.93,Cartão,App
+2024-01-27 09:40,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.78,Cartão,Balcão
+2025-06-18 19:21,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,5.8,Pix,Delivery
+2024-07-08 14:13,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.66,Pix,Balcão
+2025-08-04 07:36,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.95,Pix,Balcão
+2025-08-03 11:17,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,9.68,Pix,App
+2024-04-10 11:25,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.44,Pix,Delivery
+2025-10-15 15:58,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.13,Cartão,Balcão
+2024-06-29 08:18,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,10.04,Pix,Delivery
+2024-08-25 13:09,Curitiba - Batel,Latte,Bebida Quente,4,12.48,Cartão,Delivery
+2025-05-27 15:01,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,11.93,Cartão,Delivery
+2025-08-11 18:10,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,4,12.52,Pix,Balcão
+2025-06-21 08:37,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.45,Pix,Balcão
+2025-09-26 17:55,São Paulo - Paulista,Sanduíche Natural,Comida,2,17.26,Cartão,App
+2025-10-19 17:36,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.23,Cartão,Delivery
+2024-03-12 09:26,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.63,Pix,Balcão
+2025-05-27 13:18,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.85,Cartão,App
+2024-03-02 09:03,Belo Horizonte - Savassi,Croissant,Comida,1,12.83,Pix,Balcão
+2025-07-15 16:09,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.18,Pix,Balcão
+2025-01-19 08:37,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.44,Cartão,Balcão
+2025-06-12 20:34,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.75,Pix,App
+2025-05-27 07:35,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.75,Cartão,App
+2025-05-13 18:57,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.39,Pix,Balcão
+2024-07-08 13:20,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.16,Dinheiro,Balcão
+2024-10-04 18:45,Belo Horizonte - Savassi,Croissant,Comida,2,12.56,Cartão,App
+2024-07-05 19:37,Curitiba - Batel,Café Expresso,Bebida Quente,3,5.76,Cartão,App
+2024-08-19 10:40,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.09,Cartão,Balcão
+2025-08-28 16:38,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.92,Cartão,Delivery
+2025-05-02 16:26,São Paulo - Paulista,Latte,Bebida Quente,1,12.32,Pix,Delivery
+2024-11-25 08:11,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.57,Pix,Balcão
+2025-07-31 20:43,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.06,Cartão,Balcão
+2025-02-09 19:23,Curitiba - Batel,Sanduíche Natural,Comida,2,15.36,Cartão,Delivery
+2024-06-30 20:20,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,6.92,Pix,Balcão
+2024-09-15 13:08,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.52,Pix,App
+2025-01-29 09:05,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.24,Pix,Delivery
+2025-08-16 12:45,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.91,Cartão,Balcão
+2024-03-22 13:52,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.66,Pix,App
+2025-09-19 21:45,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,3,6.04,Pix,App
+2025-06-18 11:13,Belo Horizonte - Savassi,Café Coado,Bebida Quente,3,5.37,Cartão,App
+2025-03-23 18:38,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.59,Dinheiro,Balcão
+2025-08-24 15:58,Curitiba - Batel,Latte,Bebida Quente,2,12.26,Pix,Delivery
+2024-06-05 08:09,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.8,Dinheiro,Balcão
+2025-09-16 09:49,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,4.79,Pix,Delivery
+2024-02-05 07:07,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,13.09,Pix,App
+2025-05-23 11:03,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.95,Dinheiro,Balcão
+2025-11-17 16:15,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.42,Pix,App
+2025-02-21 09:03,São Paulo - Paulista,Pão de Queijo,Comida,3,7.22,Cartão,Delivery
+2024-04-03 14:15,Belo Horizonte - Savassi,Croissant,Comida,1,11.76,Cartão,Balcão
+2025-01-21 09:03,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.8,Pix,App
+2024-07-09 20:01,São Paulo - Paulista,Bolo de Chocolate,Comida,2,11.03,Pix,Balcão
+2024-12-13 10:01,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,11.03,Cartão,App
+2024-04-30 12:24,São Paulo - Paulista,Croissant,Comida,1,12.66,Pix,Balcão
+2024-09-17 17:26,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,10.16,Cartão,Balcão
+2024-11-27 11:29,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.15,Pix,App
+2024-04-23 09:37,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.28,Pix,App
+2024-11-15 15:59,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,4,5.7,Pix,Delivery
+2025-05-17 11:28,São Paulo - Paulista,Café Coado,Bebida Quente,2,4.79,Pix,App
+2024-10-25 09:04,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.45,Pix,Balcão
+2025-07-09 09:14,Curitiba - Batel,Café Coado,Bebida Quente,2,5.24,Pix,Balcão
+2025-06-22 09:46,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.79,Cartão,App
+2025-06-07 18:13,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.21,Cartão,App
+2024-02-18 07:55,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.85,Pix,App
+2024-06-17 16:38,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.77,Cartão,App
+2024-03-10 13:43,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,9.51,Pix,Delivery
+2024-12-17 15:05,Curitiba - Batel,Café Gelado,Bebida Gelada,2,12.69,Cartão,Delivery
+2025-06-23 08:36,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,4,5.87,Pix,Delivery
+2025-05-03 18:39,Belo Horizonte - Savassi,Café Coado,Bebida Quente,4,4.85,Pix,Delivery
+2024-08-25 09:56,Porto Alegre - Moinhos,Latte,Bebida Quente,3,12.66,Pix,App
+2024-06-25 16:49,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.48,Pix,App
+2025-07-21 12:15,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.78,Cartão,Balcão
+2024-09-19 11:25,Curitiba - Batel,Café Expresso,Bebida Quente,1,5.82,Cartão,Balcão
+2025-10-11 15:34,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.45,Pix,Delivery
+2025-12-30 14:53,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.85,Pix,Balcão
+2025-05-27 09:23,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.38,Cartão,Balcão
+2025-04-01 09:34,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,12.98,Dinheiro,Balcão
+2024-08-09 07:13,São Paulo - Paulista,Café Expresso,Bebida Quente,3,6.32,Pix,Balcão
+2025-06-09 12:42,São Paulo - Paulista,Sanduíche Natural,Comida,2,16.37,Pix,App
+2025-09-21 11:50,Curitiba - Batel,Cappuccino,Bebida Quente,2,11.47,Cartão,Balcão
+2024-10-31 13:09,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.52,Cartão,Balcão
+2025-10-05 09:50,Curitiba - Batel,Pão de Queijo,Comida,1,6.75,Cartão,Balcão
+2024-06-12 11:33,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.7,Pix,App
+2025-10-25 10:06,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.83,Cartão,Balcão
+2024-07-13 09:05,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.58,Cartão,Balcão
+2024-01-24 08:23,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.1,Cartão,Balcão
+2025-09-24 15:31,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.34,Pix,Balcão
+2024-01-10 14:02,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.57,Pix,Balcão
+2025-03-28 09:10,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,10.36,Pix,App
+2025-05-03 11:27,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.23,Cartão,Balcão
+2024-04-03 15:03,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,6.17,Cartão,Balcão
+2024-01-14 07:48,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.31,Pix,Delivery
+2024-02-23 20:05,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,17.08,Cartão,App
+2024-07-19 11:02,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.81,Cartão,Delivery
+2025-09-18 08:09,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.46,Pix,Balcão
+2024-05-09 13:21,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,5.92,Pix,App
+2025-10-01 10:03,Curitiba - Batel,Pão de Queijo,Comida,3,7.24,Cartão,App
+2025-06-22 07:42,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.11,Pix,Balcão
+2024-02-10 15:18,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.52,Pix,Delivery
+2024-05-27 09:09,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.79,Dinheiro,Balcão
+2024-04-28 21:09,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,15.65,Cartão,Balcão
+2025-06-20 08:54,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,3,9.72,Cartão,App
+2024-07-29 11:28,São Paulo - Paulista,Café Expresso,Bebida Quente,4,5.88,Cartão,Delivery
+2025-09-11 14:00,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.75,Cartão,Balcão
+2024-08-05 10:03,Curitiba - Batel,Latte,Bebida Quente,1,12.48,Pix,Delivery
+2024-05-26 07:59,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,5.71,Cartão,Balcão
+2025-09-03 10:37,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,12.96,Dinheiro,Balcão
+2025-03-20 07:36,São Paulo - Paulista,Croissant,Comida,1,12.13,Pix,Balcão
+2024-07-13 15:04,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,11.29,Cartão,Delivery
+2025-10-21 16:36,São Paulo - Paulista,Café Expresso,Bebida Quente,4,6.37,Pix,Delivery
+2025-07-01 20:43,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,11.07,Pix,Balcão
+2024-08-31 08:34,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.57,Pix,App
+2024-01-30 09:38,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.7,Pix,Balcão
+2025-10-19 09:00,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.66,Cartão,Balcão
+2024-08-08 19:27,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.5,Cartão,Balcão
+2025-11-08 12:12,Curitiba - Batel,Sanduíche Natural,Comida,3,15.99,Pix,App
+2025-08-20 10:00,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,14.03,Pix,Balcão
+2025-02-01 13:30,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.09,Pix,App
+2025-03-05 10:55,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.7,Cartão,Delivery
+2024-12-20 18:21,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.31,Cartão,Delivery
+2025-08-22 14:50,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.08,Pix,Balcão
+2024-06-25 07:29,Curitiba - Batel,Latte,Bebida Quente,3,12.61,Pix,Delivery
+2024-12-04 15:54,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,12.61,Cartão,Balcão
+2025-07-10 19:20,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.92,Pix,Delivery
+2025-11-19 08:36,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.82,Cartão,App
+2024-12-29 07:25,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.37,Cartão,Balcão
+2025-05-21 10:18,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.7,Pix,Delivery
+2025-04-26 07:19,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.41,Cartão,Balcão
+2024-11-03 10:14,Curitiba - Batel,Pão de Queijo,Comida,1,7.01,Cartão,Balcão
+2024-01-09 09:28,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,17.21,Pix,Balcão
+2024-06-03 09:14,Curitiba - Batel,Chocolate Quente,Bebida Quente,3,12.87,Cartão,Balcão
+2024-05-31 08:28,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.76,Cartão,Balcão
+2025-09-02 08:48,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.02,Pix,Balcão
+2025-11-27 07:52,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.89,Pix,Balcão
+2024-07-06 14:24,São Paulo - Paulista,Latte,Bebida Quente,1,12.93,Cartão,Balcão
+2024-07-22 12:05,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.55,Pix,App
+2024-09-18 10:42,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.36,Pix,Delivery
+2025-12-25 09:25,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.38,Cartão,Balcão
+2024-05-05 16:11,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,7.41,Pix,Delivery
+2025-07-02 12:36,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.25,Cartão,Balcão
+2025-06-08 09:26,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.74,Pix,Balcão
+2024-11-29 20:16,Curitiba - Batel,Bolo de Cenoura,Comida,4,9.67,Pix,App
+2025-12-12 10:12,São Paulo - Paulista,Pão de Queijo,Comida,2,6.87,Cartão,Balcão
+2025-01-16 11:00,Belo Horizonte - Savassi,Croissant,Comida,2,12.3,Pix,App
+2025-01-02 10:38,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,10.63,Cartão,Delivery
+2025-08-10 20:10,Curitiba - Batel,Café Expresso,Bebida Quente,2,5.96,Cartão,Balcão
+2025-07-05 08:25,Curitiba - Batel,Cappuccino,Bebida Quente,3,10.67,Pix,Delivery
+2025-04-23 10:21,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,9.66,Pix,Delivery
+2024-08-11 07:57,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.79,Pix,Balcão
+2024-05-04 08:41,São Paulo - Paulista,Pão de Queijo,Comida,2,7.1,Cartão,Balcão
+2024-02-21 07:03,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.25,Pix,Balcão
+2024-05-04 07:18,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.11,Cartão,Balcão
+2025-08-07 21:16,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.97,Dinheiro,Balcão
+2024-10-10 08:18,São Paulo - Paulista,Suco Natural,Bebida Gelada,4,9.83,Pix,App
+2025-07-29 18:15,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,12.51,Pix,App
+2024-06-30 10:34,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,11.48,Cartão,Balcão
+2024-12-04 07:43,Porto Alegre - Moinhos,Croissant,Comida,2,11.75,Pix,App
+2024-10-31 08:07,Porto Alegre - Moinhos,Croissant,Comida,1,12.15,Pix,App
+2024-04-22 11:41,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.2,Cartão,App
+2025-04-05 07:30,Belo Horizonte - Savassi,Latte,Bebida Quente,3,12.73,Cartão,Delivery
+2025-07-29 08:33,Curitiba - Batel,Bolo de Chocolate,Comida,1,11.24,Pix,Balcão
+2025-09-24 18:02,Belo Horizonte - Savassi,Croissant,Comida,3,11.84,Pix,App
+2024-08-12 10:31,São Paulo - Paulista,Sanduíche Natural,Comida,2,15.22,Pix,App
+2025-12-12 11:12,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.09,Pix,App
+2025-03-04 15:00,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.24,Cartão,App
+2024-01-02 10:32,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,9.67,Cartão,App
+2024-06-10 11:42,São Paulo - Paulista,Pão de Queijo,Comida,1,6.85,Pix,App
+2024-07-30 18:38,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,9.59,Dinheiro,Balcão
+2025-08-09 08:40,São Paulo - Paulista,Latte,Bebida Quente,1,12.56,Cartão,Balcão
+2025-10-07 07:42,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.9,Pix,Balcão
+2024-07-17 16:38,Porto Alegre - Moinhos,Latte,Bebida Quente,1,11.92,Cartão,App
+2024-06-16 07:46,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.93,Cartão,Balcão
+2025-09-27 13:14,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,4,9.89,Pix,App
+2024-11-13 07:51,Curitiba - Batel,Café Coado,Bebida Quente,1,5.38,Cartão,Balcão
+2025-07-04 21:22,São Paulo - Paulista,Café Coado,Bebida Quente,4,4.82,Cartão,Delivery
+2024-02-17 20:40,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,16.11,Pix,Balcão
+2025-09-06 09:25,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.69,Cartão,App
+2024-05-19 09:50,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.28,Cartão,Balcão
+2025-08-17 11:03,Belo Horizonte - Savassi,Croissant,Comida,1,12.86,Cartão,Balcão
+2025-09-22 08:39,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.81,Cartão,Balcão
+2024-08-21 12:36,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.77,Cartão,App
+2025-04-11 11:36,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,13.39,Cartão,Balcão
+2025-10-02 11:41,Porto Alegre - Moinhos,Pão de Queijo,Comida,3,7.22,Cartão,Balcão
+2024-06-27 11:25,Curitiba - Batel,Pão de Queijo,Comida,1,7.32,Cartão,Balcão
+2024-11-06 18:31,Curitiba - Batel,Pão de Queijo,Comida,1,7.4,Pix,Balcão
+2024-06-09 10:36,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.47,Cartão,Delivery
+2024-01-09 09:52,Curitiba - Batel,Bolo de Cenoura,Comida,3,9.97,Cartão,App
+2024-03-02 11:05,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.15,Cartão,App
+2024-10-08 09:38,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,13.3,Cartão,Balcão
+2025-05-14 08:40,Porto Alegre - Moinhos,Latte,Bebida Quente,2,11.62,Cartão,App
+2024-02-15 07:17,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.83,Pix,Balcão
+2024-05-02 16:06,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.95,Dinheiro,Balcão
+2024-06-04 09:40,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.66,Cartão,Delivery
+2024-01-18 10:59,São Paulo - Paulista,Latte,Bebida Quente,1,11.43,Pix,Balcão
+2024-09-10 16:53,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.82,Pix,Balcão
+2025-01-21 08:33,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.01,Pix,App
+2024-11-13 13:12,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,3,16.89,Cartão,Balcão
+2025-03-21 09:33,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.31,Cartão,App
+2025-07-21 11:32,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.74,Pix,App
+2024-12-04 17:39,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,9.55,Cartão,Balcão
+2025-02-05 08:51,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.69,Cartão,Delivery
+2024-01-16 16:51,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.12,Pix,Balcão
+2024-05-19 14:40,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.26,Cartão,Delivery
+2024-02-26 17:51,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,2,9.59,Pix,Delivery
+2025-12-04 14:16,Curitiba - Batel,Suco Natural,Bebida Gelada,1,9.55,Pix,Balcão
+2024-11-12 09:44,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.13,Cartão,Balcão
+2024-05-29 14:42,São Paulo - Paulista,Latte,Bebida Quente,1,11.77,Pix,App
+2024-08-26 08:02,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,2,10.64,Cartão,Delivery
+2025-03-15 19:17,Curitiba - Batel,Sanduíche Natural,Comida,4,16.72,Cartão,Delivery
+2024-06-09 19:39,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.7,Cartão,App
+2025-12-14 08:45,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.55,Cartão,Balcão
+2024-04-20 10:13,São Paulo - Paulista,Pão de Queijo,Comida,1,6.78,Cartão,Balcão
+2025-09-23 16:04,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,9.63,Cartão,App
+2025-01-16 11:25,Porto Alegre - Moinhos,Café Coado,Bebida Quente,2,5.26,Pix,App
+2025-06-03 09:41,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.92,Cartão,App
+2024-11-15 14:00,Curitiba - Batel,Latte,Bebida Quente,1,12.57,Cartão,Balcão
+2024-06-25 18:09,São Paulo - Paulista,Pão de Queijo,Comida,1,7.08,Pix,Balcão
+2025-06-21 11:03,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.17,Cartão,Delivery
+2025-07-29 12:29,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.21,Cartão,Balcão
+2025-12-24 07:10,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.04,Cartão,Balcão
+2024-11-18 12:03,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.11,Dinheiro,Balcão
+2024-04-15 07:27,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.1,Dinheiro,Balcão
+2025-04-21 11:45,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.7,Cartão,Delivery
+2024-12-09 08:03,Curitiba - Batel,Bolo de Cenoura,Comida,2,9.05,Cartão,App
+2024-02-29 16:39,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.33,Pix,App
+2025-08-24 16:36,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.8,Cartão,Balcão
+2024-06-30 17:48,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.75,Pix,App
+2024-11-30 15:26,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,2,12.64,Cartão,Balcão
+2025-05-18 08:56,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,12.55,Cartão,App
+2024-11-16 08:11,Curitiba - Batel,Sanduíche Natural,Comida,1,15.73,Pix,Balcão
+2025-08-28 07:42,Porto Alegre - Moinhos,Latte,Bebida Quente,2,12.73,Dinheiro,Balcão
+2024-09-17 21:47,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.34,Cartão,Balcão
+2024-05-13 08:35,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.02,Cartão,App
+2025-10-09 15:34,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.84,Cartão,App
+2024-11-02 17:50,Curitiba - Batel,Café Expresso,Bebida Quente,3,6.32,Pix,Delivery
+2025-06-05 10:23,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.33,Cartão,Balcão
+2024-04-27 10:08,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,11.41,Pix,Balcão
+2025-04-17 11:02,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,3,9.87,Pix,App
+2025-08-22 17:09,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,9.94,Pix,Delivery
+2025-02-07 11:03,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.78,Pix,Balcão
+2024-04-18 18:10,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.12,Pix,Delivery
+2025-03-04 13:21,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.32,Dinheiro,Balcão
+2025-03-09 15:58,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,13.7,Pix,Balcão
+2025-06-24 13:45,Rio de Janeiro - Ipanema,Croissant,Comida,2,12.05,Pix,App
+2025-10-09 07:38,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.04,Pix,Balcão
+2024-11-01 10:31,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.36,Dinheiro,Balcão
+2025-10-23 16:18,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.58,Pix,App
+2025-07-03 09:09,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.56,Cartão,App
+2025-07-12 08:54,Curitiba - Batel,Latte,Bebida Quente,1,12.58,Dinheiro,Balcão
+2024-04-08 11:46,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.13,Cartão,Balcão
+2024-10-03 21:36,Curitiba - Batel,Café Gelado,Bebida Gelada,1,13.4,Pix,Balcão
+2025-05-15 08:44,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.28,Cartão,Balcão
+2025-06-22 18:46,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,2,10.29,Pix,Balcão
+2025-07-29 09:02,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.79,Cartão,Balcão
+2024-08-22 14:05,Porto Alegre - Moinhos,Croissant,Comida,1,12.57,Pix,Balcão
+2025-12-17 15:47,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,11.32,Cartão,App
+2024-04-05 08:35,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.33,Pix,Balcão
+2025-07-19 17:42,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.77,Pix,App
+2024-05-19 10:40,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.82,Cartão,App
+2025-06-19 11:49,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,12.86,Pix,Delivery
+2025-10-23 08:32,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.74,Pix,Balcão
+2025-12-09 20:06,Porto Alegre - Moinhos,Croissant,Comida,1,12.26,Cartão,App
+2025-07-13 09:24,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.21,Cartão,App
+2024-06-05 09:52,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.32,Cartão,App
+2024-01-29 10:47,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,13.31,Cartão,Balcão
+2024-10-29 09:22,Curitiba - Batel,Croissant,Comida,2,12.88,Pix,Balcão
+2024-07-14 08:33,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,9.61,Cartão,App
+2024-08-28 08:03,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,10.65,Cartão,App
+2025-11-12 11:18,São Paulo - Paulista,Latte,Bebida Quente,2,12.37,Pix,App
+2024-08-18 17:04,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.8,Dinheiro,Balcão
+2024-07-07 15:19,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,13.46,Cartão,App
+2024-04-30 09:42,Porto Alegre - Moinhos,Café Coado,Bebida Quente,3,4.93,Cartão,Delivery
+2025-12-10 07:15,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,5.27,Pix,Balcão
+2025-05-11 18:48,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,2,6.89,Cartão,Balcão
+2024-02-10 14:52,Belo Horizonte - Savassi,Croissant,Comida,2,12.9,Dinheiro,Balcão
+2024-06-06 15:40,Rio de Janeiro - Ipanema,Croissant,Comida,3,12.51,Cartão,Delivery
+2024-01-06 07:06,Curitiba - Batel,Latte,Bebida Quente,1,12.4,Pix,Balcão
+2024-08-17 10:06,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,12.64,Cartão,Balcão
+2025-05-22 20:08,São Paulo - Paulista,Latte,Bebida Quente,1,11.48,Dinheiro,Balcão
+2024-10-23 15:52,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.73,Cartão,Balcão
+2024-04-27 18:09,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.55,Cartão,App
+2024-05-18 09:42,São Paulo - Paulista,Café Coado,Bebida Quente,2,4.88,Pix,Delivery
+2024-05-24 09:52,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.79,Pix,Delivery
+2025-08-07 12:44,Curitiba - Batel,Croissant,Comida,1,11.82,Pix,Balcão
+2024-07-29 16:04,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.15,Pix,Balcão
+2024-05-07 07:22,São Paulo - Paulista,Croissant,Comida,2,12.19,Pix,Balcão
+2025-12-22 09:29,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.74,Cartão,Balcão
+2024-09-23 18:19,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.45,Cartão,App
+2024-06-23 13:51,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,9.96,Pix,App
+2024-05-02 07:53,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.37,Cartão,Balcão
+2024-07-18 11:52,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.02,Pix,App
+2025-09-19 10:24,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.4,Pix,Balcão
+2025-08-15 10:52,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,11.35,Pix,App
+2024-06-23 07:24,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,5.29,Pix,Delivery
+2025-05-11 19:09,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,3,16.58,Pix,App
+2024-08-18 07:11,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.1,Cartão,Delivery
+2025-09-24 09:42,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.34,Dinheiro,Balcão
+2025-11-28 21:51,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,11.3,Pix,Balcão
+2025-08-15 08:32,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.02,Dinheiro,Balcão
+2024-08-07 16:22,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.46,Pix,App
+2024-06-16 07:51,Curitiba - Batel,Latte,Bebida Quente,1,11.54,Pix,Delivery
+2025-03-28 17:14,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.49,Cartão,Balcão
+2024-08-20 10:00,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.82,Pix,Balcão
+2025-05-06 15:19,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.26,Pix,Balcão
+2025-08-27 09:08,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.16,Cartão,Balcão
+2024-09-27 07:34,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,14.0,Pix,Balcão
+2024-12-26 09:34,São Paulo - Paulista,Suco Natural,Bebida Gelada,3,10.59,Pix,App
+2025-05-17 08:09,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,12.5,Cartão,App
+2025-03-01 09:27,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.4,Cartão,Balcão
+2025-06-12 09:08,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.04,Cartão,Balcão
+2024-06-10 11:19,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,3,11.21,Pix,App
+2024-05-01 07:18,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.35,Pix,Balcão
+2024-06-26 07:33,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.64,Pix,Delivery
+2024-05-25 11:02,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.99,Cartão,Balcão
+2024-04-17 20:29,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,4.85,Pix,Balcão
+2025-10-26 12:14,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.0,Cartão,App
+2024-09-16 10:21,Belo Horizonte - Savassi,Croissant,Comida,1,12.02,Cartão,Delivery
+2024-04-03 14:15,Belo Horizonte - Savassi,Croissant,Comida,1,11.76,Cartão,Balcão
+2025-02-26 09:11,Porto Alegre - Moinhos,Croissant,Comida,2,12.34,Pix,App
+2025-06-27 17:34,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.41,Cartão,Balcão
+2024-10-18 08:31,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.9,Pix,Balcão
+2025-01-17 20:59,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.31,Cartão,Balcão
+2025-03-09 08:25,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.7,Pix,Balcão
+2024-03-27 08:44,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.67,Pix,Balcão
+2025-01-12 11:15,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,12.37,Pix,App
+2024-01-22 19:15,São Paulo - Paulista,Bolo de Chocolate,Comida,1,11.13,Cartão,Balcão
+2025-11-11 09:30,São Paulo - Paulista,Latte,Bebida Quente,1,12.68,Cartão,App
+2024-02-22 20:18,São Paulo - Paulista,Bolo de Cenoura,Comida,3,9.96,Cartão,Delivery
+2025-02-07 15:46,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.19,Cartão,Balcão
+2024-10-02 21:22,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.89,Cartão,Delivery
+2025-04-22 19:00,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.38,Pix,Delivery
+2024-11-18 08:28,Curitiba - Batel,Café Expresso,Bebida Quente,3,6.4,Cartão,Delivery
+2024-01-24 08:49,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,4.94,Pix,Balcão
+2024-08-02 09:59,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,6.35,Cartão,App
+2024-05-10 11:08,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,13.22,Cartão,Balcão
+2025-05-18 21:28,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,13.93,Pix,App
+2024-05-07 20:09,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.67,Pix,Balcão
+2025-08-09 11:41,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.36,Pix,Balcão
+2024-01-26 16:48,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.39,Pix,Delivery
+2024-09-04 07:05,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.31,Pix,App
+2024-04-13 17:56,Porto Alegre - Moinhos,Café Coado,Bebida Quente,3,4.85,Pix,Balcão
+2025-06-08 07:46,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.34,Pix,Balcão
+2025-11-26 19:48,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.38,Pix,Delivery
+2024-07-10 12:04,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,11.06,Cartão,Delivery
+2025-04-08 11:44,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.0,Dinheiro,Balcão
+2025-05-12 10:37,Curitiba - Batel,Cappuccino,Bebida Quente,1,10.99,Cartão,Balcão
+2024-02-18 10:47,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.08,Cartão,App
+2025-02-12 19:39,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.77,Cartão,Balcão
+2024-06-18 12:21,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.7,Cartão,Balcão
+2024-07-30 11:18,São Paulo - Paulista,Café Coado,Bebida Quente,2,4.96,,Balcão
+2025-01-06 10:54,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.63,Cartão,Balcão
+2025-11-21 11:10,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.67,Pix,App
+2025-02-02 21:59,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.88,Cartão,Balcão
+2024-08-15 08:41,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.59,Cartão,Delivery
+2025-08-06 17:39,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,5.03,Pix,Balcão
+2024-12-05 09:14,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.05,Dinheiro,Balcão
+2024-09-06 07:31,Curitiba - Batel,Latte,Bebida Quente,1,12.15,Pix,Balcão
+2025-05-01 19:58,São Paulo - Paulista,Bolo de Cenoura,Comida,4,10.2,Pix,Balcão
+2025-04-29 07:45,Curitiba - Batel,Cappuccino,Bebida Quente,3,11.45,Cartão,App
+2025-01-03 17:49,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,6.69,Pix,Delivery
+2025-01-01 20:23,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.17,Cartão,Balcão
+2024-04-07 07:01,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.4,Cartão,App
+2024-04-25 10:00,Belo Horizonte - Savassi,Croissant,Comida,3,12.33,Pix,Delivery
+2024-02-25 16:27,Curitiba - Batel,Sanduíche Natural,Comida,1,15.36,Pix,Balcão
+2025-04-04 11:26,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.61,Dinheiro,Balcão
+2024-03-06 08:13,Belo Horizonte - Savassi,Croissant,Comida,1,12.5,Pix,Balcão
+2024-10-12 21:54,São Paulo - Paulista,Croissant,Comida,1,12.78,Dinheiro,Balcão
+2025-12-16 12:04,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.54,Cartão,Delivery
+2025-07-14 15:33,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.86,Cartão,Balcão
+2024-12-04 09:43,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.03,Pix,Balcão
+2024-08-17 15:51,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,3,6.3,Pix,App
+2025-05-25 09:30,Porto Alegre - Moinhos,Croissant,Comida,1,11.99,Cartão,Delivery
+2024-04-26 20:17,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,1,13.49,Pix,Delivery
+2025-06-26 11:28,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.26,Pix,Delivery
+2024-05-28 10:03,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.62,Cartão,App
+2025-04-24 09:39,Porto Alegre - Moinhos,Latte,Bebida Quente,3,12.85,Cartão,App
+2024-04-17 09:59,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,4,4.85,Cartão,Delivery
+2025-12-17 10:04,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,9.93,Pix,App
+2024-06-24 08:56,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,13.16,Pix,Balcão
+2024-02-23 07:08,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.77,Cartão,Balcão
+2024-12-20 08:36,Curitiba - Batel,Café Coado,Bebida Quente,1,4.88,Pix,App
+2025-11-02 11:06,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.72,Cartão,Delivery
+2024-10-23 07:18,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.42,Cartão,Balcão
+2025-10-15 16:30,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,6.4,Cartão,App
+2024-10-22 13:30,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,10.87,Dinheiro,Balcão
+2024-12-03 09:36,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.4,Pix,Balcão
+2024-04-28 08:13,Curitiba - Batel,Bolo de Cenoura,Comida,2,9.56,Cartão,Balcão
+2024-11-22 09:41,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.49,Pix,Balcão
+2024-07-05 09:46,Curitiba - Batel,Café Coado,Bebida Quente,1,4.77,Cartão,Balcão
+2025-03-10 09:45,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,6.19,Pix,App
+2025-07-04 08:46,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.84,Cartão,Balcão
+2025-02-20 14:35,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.38,Cartão,App
+2024-02-02 09:36,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.4,Cartão,App
+2025-07-20 08:39,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.89,Cartão,Delivery
+2024-11-20 13:35,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.34,Dinheiro,Balcão
+2024-08-08 07:54,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.59,Pix,App
+2024-08-23 13:38,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.57,Cartão,Balcão
+2025-04-17 08:26,Curitiba - Batel,Bolo de Chocolate,Comida,3,11.11,Cartão,Balcão
+2025-05-15 09:12,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,16.46,Pix,Delivery
+2024-12-28 12:12,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.93,Pix,Balcão
+2025-01-19 09:09,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.37,Pix,Balcão
+2025-07-27 07:14,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,3,10.0,Pix,Delivery
+2025-06-19 07:58,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.19,Cartão,Balcão
+2024-09-24 15:05,Curitiba - Batel,Café Coado,Bebida Quente,2,5.36,Cartão,Delivery
+2025-08-12 09:31,Curitiba - Batel,Café Expresso,Bebida Quente,1,5.87,Cartão,App
+2025-04-25 20:39,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.25,Cartão,Balcão
+2025-10-05 10:01,Curitiba - Batel,Latte,Bebida Quente,2,11.8,Pix,App
+2025-01-25 10:15,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.22,Pix,Balcão
+2024-09-24 09:05,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.17,Cartão,Delivery
+2025-03-29 07:33,Porto Alegre - Moinhos,Latte,Bebida Quente,1,11.4,Cartão,Balcão
+2024-10-07 12:35,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.28,Pix,Delivery
+2025-08-26 11:53,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,10.51,Pix,Balcão
+2024-12-06 13:18,Curitiba - Batel,Cappuccino,Bebida Quente,2,10.83,Cartão,Balcão
+2024-08-01 19:02,São Paulo - Paulista,Croissant,Comida,1,12.71,Pix,Delivery
+2024-04-19 11:46,Curitiba - Batel,Latte,Bebida Quente,1,12.02,Pix,App
+2024-10-21 09:40,Curitiba - Batel,Café Coado,Bebida Quente,2,4.9,Pix,Balcão
+2024-07-19 18:15,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.36,Cartão,Balcão
+2024-05-25 11:35,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,13.61,Pix,Delivery
+2025-02-19 20:26,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,12.58,Dinheiro,Balcão
+2024-06-12 19:45,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.83,Pix,App
+2025-08-15 14:38,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.36,Pix,App
+2025-07-22 07:22,Porto Alegre - Moinhos,Croissant,Comida,2,12.52,Pix,Delivery
+2024-01-09 08:29,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.16,Pix,App
+2024-06-21 11:47,São Paulo - Paulista,Croissant,Comida,2,12.75,Pix,Balcão
+2024-02-25 13:03,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.29,Pix,Balcão
+2024-06-17 13:32,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,4,6.32,Cartão,App
+2024-06-16 19:53,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.38,Cartão,App
+2025-07-05 13:02,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.16,Pix,App
+2025-06-23 12:09,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.7,Dinheiro,Balcão
+2025-07-04 16:59,Belo Horizonte - Savassi,Latte,Bebida Quente,2,12.57,Cartão,App
+2024-04-23 08:15,São Paulo - Paulista,Pão de Queijo,Comida,1,7.15,Cartão,App
+2025-07-04 09:38,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,13.08,,App
+2025-07-25 21:02,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,13.04,Dinheiro,Balcão
+2025-06-14 19:39,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,3,10.21,Pix,Balcão
+2024-04-10 19:57,São Paulo - Paulista,Latte,Bebida Quente,1,12.88,Cartão,Delivery
+2025-09-14 09:37,Rio de Janeiro - Ipanema,Latte,Bebida Quente,4,12.95,Cartão,Delivery
+2025-05-03 10:47,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.97,Cartão,App
+2025-02-11 14:12,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.2,Cartão,Delivery
+2025-06-30 11:52,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,10.8,Pix,Balcão
+2025-06-15 10:21,São Paulo - Paulista,Latte,Bebida Quente,1,11.63,Pix,Balcão
+2025-08-04 09:58,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.78,Cartão,Delivery
+2025-11-16 11:57,Curitiba - Batel,Suco Natural,Bebida Gelada,2,10.33,Cartão,App
+2025-07-19 13:23,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.32,Dinheiro,Balcão
+2024-05-27 10:19,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.54,Pix,Balcão
+2024-03-31 20:33,São Paulo - Paulista,Latte,Bebida Quente,1,12.8,Pix,Balcão
+2025-07-30 10:58,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.17,Pix,App
+2025-03-31 13:20,Curitiba - Batel,Café Gelado,Bebida Gelada,1,13.28,Cartão,Balcão
+2024-06-12 18:34,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.61,Pix,Delivery
+2024-05-22 09:47,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.33,Cartão,Balcão
+2024-03-18 19:25,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.95,Dinheiro,Balcão
+2024-04-01 15:39,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,15.63,Cartão,Balcão
+2025-02-06 13:41,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.5,Pix,Balcão
+2025-05-24 08:31,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.34,Cartão,Balcão
+2025-01-04 20:00,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,10.26,Cartão,Balcão
+2024-12-22 08:32,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.84,Pix,App
+2025-01-10 16:09,São Paulo - Paulista,Pão de Queijo,Comida,1,7.18,Cartão,Balcão
+2025-03-11 15:28,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.23,Cartão,Balcão
+2025-09-07 13:44,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.38,Cartão,App
+2024-07-25 09:40,Curitiba - Batel,Café Expresso,Bebida Quente,3,6.42,Pix,Delivery
+2024-05-09 14:22,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,3,12.05,Pix,App
+2024-02-05 16:49,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,10.66,Cartão,Balcão
+2024-10-10 20:23,Porto Alegre - Moinhos,Café Coado,Bebida Quente,4,5.13,Cartão,Delivery
+2025-10-22 14:28,São Paulo - Paulista,Café Expresso,Bebida Quente,4,5.72,Cartão,App
+2025-04-29 10:21,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.84,Cartão,Balcão
+2024-06-04 11:21,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,6.96,Cartão,Balcão
+2024-02-03 17:09,Belo Horizonte - Savassi,Croissant,Comida,1,11.66,Pix,App
+2025-05-16 09:37,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.19,Pix,Balcão
+2025-08-02 09:33,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.52,Cartão,Balcão
+2024-03-25 16:09,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,12.95,Pix,App
+2025-07-20 21:26,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.98,Pix,Balcão
+2024-05-12 15:52,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,16.95,Cartão,Delivery
+2024-06-30 11:18,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,3,16.93,Cartão,App
+2025-06-22 13:30,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.92,Cartão,Delivery
+2025-07-18 13:30,Porto Alegre - Moinhos,Croissant,Comida,3,12.02,Cartão,App
+2025-06-12 09:01,São Paulo - Paulista,Latte,Bebida Quente,3,11.85,Dinheiro,Balcão
+2025-09-29 08:01,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.74,Pix,Delivery
+2025-11-02 12:42,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,11.33,Pix,Balcão
+2024-04-28 19:42,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.49,Pix,Delivery
+2025-10-06 21:34,Belo Horizonte - Savassi,Croissant,Comida,1,12.6,Cartão,Balcão
+2025-01-10 10:41,São Paulo - Paulista,Latte,Bebida Quente,2,12.15,Cartão,Delivery
+2025-01-04 11:53,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,10.76,Pix,App
+2024-03-22 12:24,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,6.96,Pix,Balcão
+2025-01-16 19:15,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,11.28,Pix,Balcão
+2024-08-23 13:10,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.88,Cartão,Balcão
+2024-05-29 17:50,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.05,Cartão,Delivery
+2024-05-23 10:19,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.65,Cartão,Balcão
+2024-12-04 09:18,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.54,Pix,Balcão
+2025-08-27 09:04,Rio de Janeiro - Ipanema,Latte,Bebida Quente,3,12.23,Cartão,Balcão
+2025-06-01 11:33,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.41,Cartão,Balcão
+2025-10-25 09:28,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,12.9,Pix,Balcão
+2024-09-25 10:31,Curitiba - Batel,Latte,Bebida Quente,1,12.1,Pix,Balcão
+2024-07-24 15:37,São Paulo - Paulista,Croissant,Comida,1,12.93,Cartão,Balcão
+2024-07-23 10:31,Porto Alegre - Moinhos,Café Coado,Bebida Quente,2,4.98,Pix,App
+2024-03-03 15:35,São Paulo - Paulista,Latte,Bebida Quente,1,11.86,Dinheiro,Balcão
+2024-04-10 10:02,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.71,Cartão,Balcão
+2024-05-05 17:53,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,10.13,Pix,App
+2025-05-16 13:09,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.6,Pix,App
+2024-08-12 18:39,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,4,9.99,Pix,Delivery
+2025-11-01 09:08,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.73,Cartão,Balcão
+2025-01-07 20:47,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,9.88,Cartão,App
+2025-06-16 15:52,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.86,Cartão,Balcão
+2024-10-05 07:02,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.16,Cartão,App
+2024-12-28 15:22,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,11.93,Pix,Balcão
+2025-12-13 15:25,Curitiba - Batel,Croissant,Comida,1,12.8,Cartão,Balcão
+2024-01-19 17:24,Curitiba - Batel,Suco Natural,Bebida Gelada,2,9.79,Cartão,Delivery
+2025-05-22 17:39,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.55,Pix,Balcão
+2024-10-09 10:53,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.5,Dinheiro,Balcão
+2025-04-13 15:48,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.12,Cartão,Balcão
+2025-07-25 15:58,Curitiba - Batel,Croissant,Comida,2,11.83,Pix,App
+2024-06-19 08:35,Porto Alegre - Moinhos,Latte,Bebida Quente,1,11.78,Pix,Balcão
+2025-01-15 09:55,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.89,Cartão,App
+2025-05-16 14:44,São Paulo - Paulista,Bolo de Chocolate,Comida,4,10.09,Pix,Delivery
+2024-12-09 10:13,Curitiba - Batel,Café Expresso,Bebida Quente,1,5.97,Pix,Balcão
+2025-02-18 12:03,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.56,Pix,App
+2025-03-20 09:00,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,10.73,Dinheiro,Balcão
+2024-12-29 08:36,Curitiba - Batel,Latte,Bebida Quente,1,12.19,Pix,App
+2025-04-12 20:08,Curitiba - Batel,Suco Natural,Bebida Gelada,2,9.58,Cartão,Balcão
+2025-07-02 08:34,Belo Horizonte - Savassi,Croissant,Comida,2,11.78,Cartão,Balcão
+2025-02-03 12:17,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.83,Cartão,Balcão
+2024-07-04 07:56,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.82,Cartão,Balcão
+2025-04-27 07:05,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,12.95,Cartão,Balcão
+2024-10-25 07:10,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,1,12.98,Cartão,App
+2024-09-11 14:24,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.97,Pix,Balcão
+2025-03-05 14:34,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.44,Cartão,Balcão
+2024-07-27 07:44,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,2,5.77,Pix,Balcão
+2024-08-27 17:21,São Paulo - Paulista,Croissant,Comida,2,11.8,Cartão,Balcão
+2025-12-09 08:33,Porto Alegre - Moinhos,Latte,Bebida Quente,2,11.41,Pix,Delivery
+2025-06-23 09:43,São Paulo - Paulista,Latte,Bebida Quente,1,12.8,Pix,Balcão
+2025-02-19 10:37,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,2,10.42,Cartão,Balcão
+2025-02-25 15:02,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,9.78,Dinheiro,Balcão
+2025-07-21 08:06,Curitiba - Batel,Café Coado,Bebida Quente,1,4.89,Pix,Balcão
+2024-06-10 13:50,São Paulo - Paulista,Croissant,Comida,1,12.32,Cartão,App
+2025-07-29 10:25,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.78,Pix,App
+2025-08-14 12:37,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,5.86,Pix,App
+2024-03-29 11:01,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.91,Pix,Balcão
+2025-07-28 17:29,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.77,Pix,Balcão
+2025-09-18 21:19,Porto Alegre - Moinhos,Croissant,Comida,1,12.75,Cartão,Balcão
+2024-07-06 09:48,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.02,Cartão,App
+2025-11-20 13:50,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.84,Cartão,App
+2024-12-15 20:47,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.0,Pix,Balcão
+2025-09-30 07:03,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.54,Dinheiro,Balcão
+2024-06-28 07:20,Curitiba - Batel,Bolo de Chocolate,Comida,3,10.12,Cartão,Delivery
+2025-12-31 19:53,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.67,Pix,Balcão
+2024-07-13 09:20,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.6,Cartão,App
+2024-06-14 08:10,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.33,Pix,App
+2025-11-24 09:31,Belo Horizonte - Savassi,Latte,Bebida Quente,3,11.81,Cartão,App
+2024-04-12 16:42,Curitiba - Batel,Pão de Queijo,Comida,1,7.44,Cartão,Balcão
+2025-01-19 09:50,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.38,Pix,Balcão
+2025-06-10 17:47,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.39,Cartão,App
+2024-05-18 09:08,São Paulo - Paulista,Latte,Bebida Quente,3,12.02,Pix,Delivery
+2025-10-16 16:18,Curitiba - Batel,Sanduíche Natural,Comida,1,16.45,Pix,Balcão
+2024-05-30 15:09,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.14,Pix,App
+2025-08-29 10:49,São Paulo - Paulista,Bolo de Chocolate,Comida,3,11.29,Cartão,App
+2024-05-10 20:55,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.62,Cartão,App
+2025-04-26 07:29,São Paulo - Paulista,Cappuccino,Bebida Quente,2,11.87,Pix,Delivery
+2024-06-01 12:26,Curitiba - Batel,Café Expresso,Bebida Quente,3,6.45,Cartão,Delivery
+2024-10-07 21:42,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,4.85,Pix,Delivery
+2024-04-22 12:41,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.05,Pix,Balcão
+2024-09-28 19:13,São Paulo - Paulista,Latte,Bebida Quente,1,12.09,Cartão,Balcão
+2024-01-07 15:44,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.78,Pix,App
+2024-10-27 18:07,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,3,13.87,Pix,App
+2024-07-25 12:27,Curitiba - Batel,Sanduíche Natural,Comida,1,17.24,Dinheiro,Balcão
+2025-09-01 16:32,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.54,Cartão,Balcão
+2025-06-12 12:24,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.6,Pix,App
+2025-08-23 08:23,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,10.0,Cartão,App
+2024-11-04 11:22,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,3,11.54,Cartão,App
+2025-10-26 20:07,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.53,Pix,Balcão
+2024-09-16 10:59,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,3,10.07,Cartão,App
+2025-11-09 11:16,São Paulo - Paulista,Sanduíche Natural,Comida,2,16.57,Cartão,Balcão
+2025-07-31 11:21,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.6,Pix,App
+2025-09-29 07:16,Porto Alegre - Moinhos,Latte,Bebida Quente,2,12.77,Cartão,Balcão
+2025-02-01 07:04,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,6.77,Pix,Balcão
+2024-02-27 08:08,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.25,Cartão,Delivery
+2025-04-30 08:32,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.12,Cartão,App
+2025-11-10 15:12,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,10.27,Pix,Delivery
+2024-02-08 16:32,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,2,10.09,Dinheiro,Balcão
+2024-07-23 17:38,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.78,Cartão,App
+2025-01-14 10:41,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,13.18,Pix,Balcão
+2024-10-20 17:59,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,9.6,Cartão,App
+2025-07-14 09:38,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,2,6.79,Pix,Balcão
+2024-02-25 10:13,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.0,Cartão,Delivery
+2024-12-14 18:32,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,13.48,Dinheiro,Balcão
+2024-06-06 16:28,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.39,Pix,Delivery
+2024-06-12 10:08,São Paulo - Paulista,Latte,Bebida Quente,1,12.42,Cartão,App
+2025-08-13 11:37,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.64,Cartão,Balcão
+2025-05-23 10:37,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.06,Pix,Balcão
+2025-10-14 08:51,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.24,Cartão,App
+2024-08-20 10:38,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,10.71,Pix,Balcão
+2025-03-24 07:29,São Paulo - Paulista,Bolo de Cenoura,Comida,1,10.08,Cartão,Balcão
+2024-09-28 09:14,São Paulo - Paulista,Cappuccino,Bebida Quente,3,10.91,Pix,Delivery
+2024-07-05 07:38,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.81,Pix,Balcão
+2024-08-03 09:45,Curitiba - Batel,Latte,Bebida Quente,2,11.64,Cartão,Delivery
+2024-06-20 10:25,Curitiba - Batel,Latte,Bebida Quente,1,11.7,Pix,Delivery
+2024-05-22 17:23,Curitiba - Batel,Cappuccino,Bebida Quente,3,11.25,Pix,App
+2024-12-04 08:35,Belo Horizonte - Savassi,Sanduíche Natural,Comida,1,15.88,Cartão,App
+2024-10-01 07:26,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.76,Pix,Balcão
+2024-11-04 21:27,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,10.61,Cartão,App
+2025-07-24 17:18,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.41,Cartão,App
+2024-05-30 08:08,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,13.14,Cartão,App
+2024-06-21 08:52,São Paulo - Paulista,Latte,Bebida Quente,2,11.49,Pix,Delivery
+2025-06-15 17:57,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,12.7,Cartão,Delivery
+2024-08-13 08:00,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.05,Pix,App
+2024-11-30 10:14,Curitiba - Batel,Suco Natural,Bebida Gelada,1,10.5,Pix,Balcão
+2025-05-20 11:38,São Paulo - Paulista,Sanduíche Natural,Comida,4,15.41,Cartão,App
+2025-12-27 18:53,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.03,Cartão,Delivery
+2024-03-05 20:01,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.35,Pix,Balcão
+2025-11-27 08:50,Curitiba - Batel,Sanduíche Natural,Comida,2,16.91,Pix,App
+2024-09-29 15:50,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,5.75,Cartão,Balcão
+2024-07-19 08:53,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.75,Pix,Balcão
+2024-03-10 09:47,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.78,Pix,Delivery
+2024-04-17 14:07,Curitiba - Batel,Sanduíche Natural,Comida,1,16.77,Cartão,Delivery
+2025-01-11 16:05,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.2,Cartão,Balcão
+2025-08-03 13:39,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.94,Pix,Delivery
+2025-07-28 09:07,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.53,Pix,App
+2024-04-30 16:25,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.11,Pix,App
+2024-08-26 07:56,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.11,Cartão,App
+2025-05-06 12:20,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.37,Cartão,Balcão
+2025-01-29 07:00,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.49,Pix,Balcão
+2025-03-06 08:11,Curitiba - Batel,Suco Natural,Bebida Gelada,2,10.48,Pix,Balcão
+2024-04-06 12:23,São Paulo - Paulista,Café Coado,Bebida Quente,2,4.75,Cartão,Balcão
+2024-07-15 07:15,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.36,Pix,Delivery
+2025-05-01 18:24,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,4,10.12,Pix,Delivery
+2024-05-27 09:14,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,2,16.79,Dinheiro,Balcão
+2024-09-01 20:55,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.16,Pix,Delivery
+2025-06-11 08:12,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.92,Cartão,App
+2025-03-07 09:49,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.84,Cartão,Delivery
+2025-08-08 10:26,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.37,Pix,Delivery
+2025-07-14 15:13,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,13.74,Cartão,Balcão
+2024-01-07 18:04,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,9.77,Pix,Delivery
+2024-09-27 10:25,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.5,Pix,Balcão
+2024-04-23 19:48,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,10.69,Pix,App
+2025-06-02 08:00,São Paulo - Paulista,Cappuccino,Bebida Quente,1,10.67,Cartão,App
+2024-12-17 19:54,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.43,Cartão,App
+2024-05-09 16:10,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.87,Pix,Balcão
+2025-05-31 12:01,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,2,11.14,Cartão,Balcão
+2024-06-12 10:49,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,3,11.08,Pix,Delivery
+2025-06-07 16:30,Curitiba - Batel,Croissant,Comida,4,12.18,Pix,App
+2025-12-30 08:53,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,3,9.91,Pix,Delivery
+2025-12-25 09:30,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.84,Cartão,Balcão
+2024-06-22 17:10,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,3,11.05,Cartão,Delivery
+2025-05-06 07:04,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.9,Pix,Balcão
+2025-06-28 12:24,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.33,Pix,Delivery
+2024-01-07 15:15,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.64,Pix,Balcão
+2024-10-04 16:59,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.65,Cartão,Balcão
+2024-11-01 07:29,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,12.59,Cartão,Balcão
+2024-09-12 09:01,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.43,Pix,Delivery
+2025-12-31 09:28,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,15.41,Cartão,Delivery
+2024-04-06 13:57,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.06,Dinheiro,Balcão
+2024-02-11 13:51,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,4,6.33,Pix,App
+2025-06-17 11:19,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.8,Cartão,Balcão
+2024-12-17 08:27,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,13.35,Cartão,Balcão
+2025-06-30 09:12,São Paulo - Paulista,Bolo de Cenoura,Comida,3,9.19,Cartão,App
+2025-07-15 08:55,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.13,Cartão,App
+2025-12-09 10:18,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.01,Cartão,Balcão
+2024-07-15 10:21,Curitiba - Batel,Café Coado,Bebida Quente,1,4.84,Pix,Balcão
+2025-05-10 10:15,São Paulo - Paulista,Croissant,Comida,1,11.67,Dinheiro,Balcão
+2024-05-22 09:36,Curitiba - Batel,Café Coado,Bebida Quente,2,4.85,Pix,App
+2024-12-27 08:15,Porto Alegre - Moinhos,Latte,Bebida Quente,4,12.59,Cartão,Delivery
+2025-04-28 07:25,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,12.7,Pix,App
+2025-10-07 07:21,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.7,Pix,Balcão
+2024-07-10 08:56,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,4.92,Cartão,Balcão
+2024-04-01 10:45,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.85,Pix,Balcão
+2024-07-27 07:31,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.17,Pix,Balcão
+2024-04-23 15:33,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.34,Pix,Balcão
+2025-09-06 13:20,Curitiba - Batel,Café Gelado,Bebida Gelada,2,12.35,Cartão,Delivery
+2024-07-09 20:27,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,2,13.48,Cartão,Balcão
+2024-08-28 09:57,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,2,12.88,Cartão,Balcão
+2025-10-13 10:13,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.12,Cartão,Delivery
+2025-06-21 13:50,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.1,Pix,Balcão
+2025-02-27 14:01,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,5.94,Dinheiro,Balcão
+2024-08-28 19:19,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,15.38,Pix,Balcão
+2025-01-21 13:15,Belo Horizonte - Savassi,Pão de Queijo,Comida,3,6.65,Pix,App
+2025-06-30 10:24,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,5.94,Pix,Delivery
+2024-10-23 19:17,São Paulo - Paulista,Café Gelado,Bebida Gelada,2,13.34,Pix,Balcão
+2024-08-01 20:46,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.48,Pix,Delivery
+2025-07-14 10:51,Curitiba - Batel,Bolo de Cenoura,Comida,2,9.44,Cartão,App
+2024-06-14 07:05,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.62,Cartão,App
+2025-04-09 09:07,São Paulo - Paulista,Bolo de Cenoura,Comida,4,9.19,Cartão,App
+2024-04-23 18:23,Belo Horizonte - Savassi,Latte,Bebida Quente,3,12.16,Dinheiro,Balcão
+2024-05-21 11:44,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.18,Pix,Balcão
+2024-03-28 11:20,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.83,Cartão,App
+2025-11-11 08:38,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.26,Cartão,Balcão
+2024-08-01 15:06,Curitiba - Batel,Café Expresso,Bebida Quente,3,6.28,Pix,Balcão
+2025-08-11 12:04,Porto Alegre - Moinhos,Café Coado,Bebida Quente,2,5.34,Dinheiro,Balcão
+2024-01-28 10:41,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.2,Cartão,Balcão
+2025-05-05 17:52,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.7,Pix,Delivery
+2024-06-24 12:45,São Paulo - Paulista,Sanduíche Natural,Comida,2,17.11,Cartão,Balcão
+2024-07-04 10:27,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.05,Cartão,App
+2025-05-14 08:43,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.13,Cartão,Balcão
+2025-03-23 08:54,Curitiba - Batel,Café Gelado,Bebida Gelada,2,13.12,Pix,Balcão
+2024-08-24 15:37,São Paulo - Paulista,Bolo de Chocolate,Comida,1,11.06,Dinheiro,Balcão
+2024-10-09 19:10,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,3,6.21,Pix,Delivery
+2024-11-10 20:39,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,10.35,Cartão,Delivery
+2024-11-06 09:31,Belo Horizonte - Savassi,Latte,Bebida Quente,1,11.45,Pix,App
+2024-08-31 19:14,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,1,10.1,Dinheiro,Balcão
+2025-12-10 08:47,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.08,Cartão,App
+2024-07-11 17:02,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.57,Cartão,Balcão
+2025-06-30 18:55,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,13.23,Pix,Delivery
+2024-03-02 11:35,Belo Horizonte - Savassi,Sanduíche Natural,Comida,3,16.03,Cartão,Delivery
+2024-07-31 07:43,Curitiba - Batel,Café Expresso,Bebida Quente,2,5.7,Pix,App
+2024-08-13 08:50,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,6.35,Cartão,App
+2024-03-24 12:00,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,3,11.32,Pix,App
+2025-06-21 11:38,Porto Alegre - Moinhos,Pão de Queijo,Comida,3,7.37,Cartão,Balcão
+2024-06-23 11:06,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.16,Cartão,App
+2025-06-08 14:43,São Paulo - Paulista,Café Coado,Bebida Quente,1,4.99,Cartão,Balcão
+2025-12-16 09:48,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,2,10.52,Cartão,Balcão
+2025-10-20 10:56,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.07,Pix,Balcão
+2024-07-31 19:39,Curitiba - Batel,Latte,Bebida Quente,1,11.75,Pix,Balcão
+2025-08-12 10:19,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,2,13.34,Pix,Balcão
+2025-10-15 10:42,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.34,Pix,Balcão
+2024-12-14 16:51,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.68,Cartão,Balcão
+2024-06-10 10:30,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.57,Pix,Balcão
+2025-07-05 10:29,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,12.35,Cartão,Balcão
+2024-07-02 07:42,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.03,Cartão,App
+2025-02-26 09:34,Belo Horizonte - Savassi,Chocolate Quente,Bebida Quente,2,12.49,Cartão,Balcão
+2025-04-27 19:31,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,2,9.53,Pix,Balcão
+2025-05-29 08:00,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.54,Pix,App
+2025-08-21 07:13,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.3,Cartão,Delivery
+2025-04-18 17:53,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.01,Pix,Delivery
+2024-10-16 15:22,São Paulo - Paulista,Suco Natural,Bebida Gelada,2,9.74,Pix,App
+2024-02-28 15:22,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.45,Cartão,Balcão
+2024-03-17 11:03,Curitiba - Batel,Café Coado,Bebida Quente,1,5.03,Pix,Balcão
+2024-07-04 16:43,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.8,Cartão,Balcão
+2025-10-31 11:37,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.72,Cartão,App
+2024-02-26 09:33,São Paulo - Paulista,Latte,Bebida Quente,1,12.46,Pix,App
+2025-04-25 12:09,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,12.75,Cartão,App
+2024-02-03 11:02,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.19,,Balcão
+2024-05-22 08:56,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.36,Cartão,Balcão
+2024-07-10 15:59,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,4.81,Pix,Balcão
+2025-03-03 08:21,São Paulo - Paulista,Bolo de Chocolate,Comida,2,11.29,Pix,App
+2025-01-19 11:46,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.8,Pix,Balcão
+2025-11-02 07:07,São Paulo - Paulista,Pão de Queijo,Comida,1,6.79,Cartão,Delivery
+2025-04-12 13:37,São Paulo - Paulista,Latte,Bebida Quente,3,11.5,Pix,Balcão
+2025-05-10 12:58,São Paulo - Paulista,Croissant,Comida,1,11.83,,App
+2025-03-06 10:25,São Paulo - Paulista,Chocolate Quente,Bebida Quente,3,13.07,Cartão,Delivery
+2025-04-13 10:55,Porto Alegre - Moinhos,Café Coado,Bebida Quente,1,4.8,Cartão,App
+2025-05-27 15:04,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.04,Pix,Balcão
+2024-08-06 11:55,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.39,Pix,Balcão
+2024-12-12 19:26,São Paulo - Paulista,Croissant,Comida,1,12.42,Cartão,App
+2024-09-04 12:47,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.86,Pix,Balcão
+2025-05-07 14:34,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,6.98,Cartão,App
+2025-07-15 10:45,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.97,Cartão,Delivery
+2025-08-28 07:42,Porto Alegre - Moinhos,Café Coado,Bebida Quente,2,5.3,Pix,App
+2024-09-29 08:35,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,12.71,Pix,Delivery
+2024-02-27 07:45,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.79,Pix,Balcão
+2024-04-28 10:09,Rio de Janeiro - Ipanema,Croissant,Comida,1,12.3,Pix,App
+2024-03-27 17:21,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,3,10.66,Pix,App
+2025-05-09 17:07,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.98,Pix,Balcão
+2025-07-18 07:37,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.62,Cartão,App
+2024-03-13 07:03,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,12.58,Cartão,App
+2025-06-12 15:14,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.16,Cartão,Balcão
+2025-06-23 07:35,Curitiba - Batel,Latte,Bebida Quente,3,11.79,Pix,Delivery
+2025-07-27 16:58,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,3,9.97,Pix,App
+2024-09-07 12:49,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,4,9.78,Cartão,App
+2025-04-03 08:38,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.05,Pix,Balcão
+2025-03-12 11:03,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.21,Cartão,Balcão
+2024-04-05 11:37,Curitiba - Batel,Latte,Bebida Quente,1,12.46,Cartão,Balcão
+2025-09-16 11:46,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.2,Cartão,Balcão
+2025-01-30 07:09,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,5.11,Cartão,Balcão
+2024-02-06 10:38,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,6.84,Cartão,Delivery
+2025-10-01 07:20,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,11.93,Cartão,Balcão
+2025-11-10 13:27,São Paulo - Paulista,Croissant,Comida,1,12.47,Cartão,Balcão
+2025-04-15 20:33,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,7.31,Pix,Balcão
+2024-10-27 12:16,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.84,Cartão,App
+2024-05-21 13:45,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,12.75,Pix,App
+2025-07-05 09:16,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.33,Pix,Delivery
+2025-03-05 10:37,Porto Alegre - Moinhos,Sanduíche Natural,Comida,2,15.51,Cartão,App
+2025-12-15 15:06,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,11.63,Pix,Balcão
+2025-09-28 09:18,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.88,Pix,App
+2024-09-04 08:28,Curitiba - Batel,Latte,Bebida Quente,1,11.78,Pix,Balcão
+2025-01-04 17:17,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,3,9.71,Pix,Balcão
+2025-06-04 21:12,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.9,Cartão,Balcão
+2025-06-30 09:58,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,2,5.73,Pix,App
+2025-04-05 19:44,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,3,12.7,Cartão,Balcão
+2024-06-06 08:48,São Paulo - Paulista,Cappuccino,Bebida Quente,1,11.76,Cartão,App
+2025-03-14 08:28,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,2,9.18,Cartão,App
+2025-02-28 17:09,Belo Horizonte - Savassi,Latte,Bebida Quente,4,11.4,,App
+2025-07-08 17:41,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.21,Cartão,App
+2025-01-12 09:48,Porto Alegre - Moinhos,Pão de Queijo,Comida,3,7.34,Cartão,App
+2025-01-16 10:40,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.64,Cartão,Balcão
+2025-11-16 10:45,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,2,12.38,Pix,App
+2025-02-08 08:06,São Paulo - Paulista,Latte,Bebida Quente,1,12.22,Dinheiro,Balcão
+2025-05-29 20:45,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,4,10.5,Cartão,App
+2025-08-10 11:09,Curitiba - Batel,Sanduíche Natural,Comida,2,15.2,Pix,App
+2025-05-01 10:35,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,2,13.03,Pix,Delivery
+2024-06-21 10:45,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.77,Pix,App
+2025-09-15 10:04,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.05,Cartão,Balcão
+2025-12-29 21:04,Curitiba - Batel,Bolo de Cenoura,Comida,1,9.21,Cartão,Balcão
+2025-10-21 10:52,Belo Horizonte - Savassi,Café Gelado,Bebida Gelada,3,12.63,Pix,Balcão
+2025-09-08 11:30,Porto Alegre - Moinhos,Latte,Bebida Quente,1,11.94,Pix,Balcão
+2024-06-30 08:18,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,1,5.95,Dinheiro,Balcão
+2025-11-02 11:01,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,4.77,Cartão,Balcão
+2024-07-07 19:18,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.9,Cartão,Balcão
+2025-09-06 19:31,Curitiba - Batel,Chocolate Quente,Bebida Quente,2,13.28,Dinheiro,Balcão
+2025-10-23 08:55,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.3,Pix,Balcão
+2025-06-13 11:45,Curitiba - Batel,Croissant,Comida,1,11.53,Dinheiro,Balcão
+2024-07-12 09:01,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.61,Pix,Balcão
+2024-11-29 09:49,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.37,Pix,Balcão
+2024-12-28 10:28,São Paulo - Paulista,Latte,Bebida Quente,1,11.83,Cartão,Balcão
+2025-05-01 07:25,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.12,Dinheiro,Balcão
+2025-06-16 18:38,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.23,Dinheiro,Balcão
+2025-03-23 10:49,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.13,Cartão,App
+2025-05-05 15:00,Curitiba - Batel,Croissant,Comida,1,12.31,Pix,Balcão
+2024-03-23 12:58,Porto Alegre - Moinhos,Bolo de Cenoura,Comida,1,9.29,Pix,Balcão
+2025-12-29 07:12,Belo Horizonte - Savassi,Suco Natural,Bebida Gelada,1,10.13,Pix,Balcão
+2025-07-04 08:58,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,1,11.48,Pix,Balcão
+2025-04-10 10:26,Porto Alegre - Moinhos,Café Expresso,Bebida Quente,2,6.33,Pix,Balcão
+2025-03-11 20:53,Porto Alegre - Moinhos,Bolo de Chocolate,Comida,2,10.18,Pix,Delivery
+2024-03-20 08:58,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.61,Pix,App
+2024-08-01 19:56,Belo Horizonte - Savassi,Café Coado,Bebida Quente,2,5.02,Cartão,Balcão
+2025-09-07 15:54,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,12.52,Cartão,Delivery
+2025-07-24 16:29,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.31,Pix,App
+2025-01-20 11:57,Curitiba - Batel,Croissant,Comida,1,12.5,Cartão,Delivery
+2024-09-20 14:35,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,4,6.45,Pix,App
+2024-06-29 15:00,São Paulo - Paulista,Sanduíche Natural,Comida,2,17.18,Cartão,Balcão
+2024-08-08 18:35,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.9,Cartão,Delivery
+2024-10-05 11:24,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,7.48,Pix,App
+2025-07-06 19:30,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.54,Cartão,Balcão
+2025-05-15 14:59,São Paulo - Paulista,Café Expresso,Bebida Quente,2,5.86,Pix,Balcão
+2024-11-14 07:58,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,5.71,Cartão,Balcão
+2024-12-22 08:40,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.62,Cartão,App
+2025-05-14 11:14,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,3,10.67,Pix,App
+2025-07-13 19:02,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.07,Cartão,Balcão
+2024-08-08 09:51,Belo Horizonte - Savassi,Croissant,Comida,1,11.84,Cartão,Delivery
+2025-08-21 10:18,Belo Horizonte - Savassi,Pão de Queijo,Comida,1,6.67,Cartão,App
+2025-08-15 09:54,São Paulo - Paulista,Croissant,Comida,3,12.44,Pix,Delivery
+2024-08-24 15:12,Curitiba - Batel,Café Expresso,Bebida Quente,2,6.32,Pix,Delivery
+2025-12-09 08:37,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,2,9.63,Pix,Balcão
+2024-02-01 09:57,Porto Alegre - Moinhos,Latte,Bebida Quente,2,12.9,Pix,App
+2024-04-18 18:36,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,1,6.7,Cartão,Balcão
+2025-11-25 11:24,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,3,11.46,Pix,Delivery
+2024-12-16 21:48,São Paulo - Paulista,Café Coado,Bebida Quente,2,4.84,Cartão,Balcão
+2024-06-20 15:33,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,4,13.64,Pix,Delivery
+2025-03-18 17:11,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.96,Cartão,App
+2025-12-11 18:04,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.35,Pix,Delivery
+2024-06-23 20:56,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,2,7.48,Pix,Balcão
+2024-07-22 16:20,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,11.28,Pix,App
+2024-09-20 08:08,Belo Horizonte - Savassi,Café Coado,Bebida Quente,3,4.92,Cartão,Delivery
+2024-07-21 21:12,São Paulo - Paulista,Chocolate Quente,Bebida Quente,2,13.23,Cartão,Balcão
+2024-06-27 13:26,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,2,6.78,Pix,App
+2024-02-02 11:17,Belo Horizonte - Savassi,Pão de Queijo,Comida,3,7.27,Dinheiro,Balcão
+2025-05-03 08:05,Curitiba - Batel,Pão de Queijo,Comida,1,7.51,Pix,Balcão
+2024-08-13 10:39,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.88,Pix,Balcão
+2025-08-05 16:20,Curitiba - Batel,Sanduíche Natural,Comida,3,16.38,Cartão,Balcão
+2025-05-04 07:23,Rio de Janeiro - Ipanema,Café Expresso,Bebida Quente,1,6.42,Pix,Balcão
+2025-02-15 10:50,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.56,Cartão,Balcão
+2024-06-03 07:35,São Paulo - Paulista,Bolo de Cenoura,Comida,2,9.57,Pix,Delivery
+2024-09-17 15:12,Curitiba - Batel,Croissant,Comida,2,12.2,Cartão,Balcão
+2025-01-25 19:18,Curitiba - Batel,Pão de Queijo,Comida,2,6.8,Cartão,Balcão
+2025-07-18 07:57,São Paulo - Paulista,Latte,Bebida Quente,1,12.63,Pix,Balcão
+2024-01-01 09:11,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,9.87,Cartão,Balcão
+2024-07-04 12:26,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.31,Cartão,App
+2025-07-05 11:06,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.24,Cartão,App
+2025-05-19 10:33,Porto Alegre - Moinhos,Cappuccino,Bebida Quente,2,10.47,Cartão,App
+2024-05-20 10:15,São Paulo - Paulista,Latte,Bebida Quente,1,12.88,Cartão,Balcão
+2024-05-21 09:36,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.21,Pix,Balcão
+2025-12-21 20:44,São Paulo - Paulista,Cappuccino,Bebida Quente,2,10.49,Cartão,App
+2024-10-12 08:19,Belo Horizonte - Savassi,Bolo de Cenoura,Comida,1,9.08,Pix,Balcão
+2024-11-03 10:12,São Paulo - Paulista,Suco Natural,Bebida Gelada,1,9.8,Cartão,Balcão
+2025-09-28 16:33,Belo Horizonte - Savassi,Sanduíche Natural,Comida,2,16.56,Cartão,App
+2024-07-24 18:05,Curitiba - Batel,Sanduíche Natural,Comida,4,16.67,Pix,Delivery
+2024-01-05 09:15,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.67,Cartão,Balcão
+2024-08-08 19:20,São Paulo - Paulista,Bolo de Chocolate,Comida,3,11.18,Pix,App
+2025-12-30 11:43,São Paulo - Paulista,Bolo de Cenoura,Comida,1,9.32,,App
+2024-10-22 11:36,Curitiba - Batel,Café Gelado,Bebida Gelada,1,12.06,Cartão,App
+2025-05-03 18:01,Porto Alegre - Moinhos,Pão de Queijo,Comida,1,7.43,Cartão,App
+2024-07-09 20:05,Curitiba - Batel,Café Coado,Bebida Quente,4,5.03,Pix,App
+2024-12-28 14:38,São Paulo - Paulista,Cappuccino,Bebida Quente,3,10.59,Cartão,Delivery
+2024-09-02 18:38,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,3,10.32,Cartão,Delivery
+2024-11-05 09:32,Porto Alegre - Moinhos,Latte,Bebida Quente,1,12.26,Cartão,App
+2025-05-04 08:35,Curitiba - Batel,Pão de Queijo,Comida,2,6.98,Pix,Balcão
+2025-09-02 15:32,Curitiba - Batel,Chocolate Quente,Bebida Quente,1,13.16,Cartão,Balcão
+2025-07-22 11:57,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,2,11.35,Cartão,App
+2024-05-14 12:03,São Paulo - Paulista,Croissant,Comida,3,12.85,Cartão,Delivery
+2024-07-30 12:42,Belo Horizonte - Savassi,Latte,Bebida Quente,1,12.24,Cartão,Delivery
+2025-08-27 17:11,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.21,Cartão,App
+2024-01-26 12:38,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,3,4.84,Cartão,App
+2024-11-11 07:28,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.27,Pix,Balcão
+2024-03-02 20:03,Curitiba - Batel,Café Gelado,Bebida Gelada,1,11.88,Pix,Delivery
+2024-01-24 19:28,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,2,6.73,,Delivery
+2025-05-20 08:46,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,11.62,Pix,App
+2024-12-01 10:53,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,9.8,Pix,Balcão
+2024-01-27 12:42,Curitiba - Batel,Suco Natural,Bebida Gelada,2,10.56,Cartão,Delivery
+2024-05-30 07:04,São Paulo - Paulista,Café Expresso,Bebida Quente,1,6.22,Cartão,Balcão
+2024-07-16 14:41,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,2,10.57,Pix,Balcão
+2024-05-13 11:16,São Paulo - Paulista,Café Gelado,Bebida Gelada,1,12.48,Cartão,Balcão
+2024-09-04 11:08,São Paulo - Paulista,Sanduíche Natural,Comida,1,16.51,Cartão,Balcão
+2025-08-10 08:21,São Paulo - Paulista,Bolo de Cenoura,Comida,4,9.53,Cartão,Balcão
+2025-10-26 07:24,Curitiba - Batel,Café Coado,Bebida Quente,1,5.13,Pix,Balcão
+2024-08-12 16:30,São Paulo - Paulista,Sanduíche Natural,Comida,1,15.45,Pix,Balcão
+2025-10-21 09:15,Rio de Janeiro - Ipanema,Chocolate Quente,Bebida Quente,1,13.52,Pix,Balcão
+2025-07-24 14:00,Curitiba - Batel,Bolo de Cenoura,Comida,2,9.24,Cartão,Balcão
+2024-02-05 07:39,São Paulo - Paulista,Café Coado,Bebida Quente,4,4.82,Pix,Delivery
+2025-01-29 07:38,Curitiba - Batel,Cappuccino,Bebida Quente,2,10.77,,App
+2025-05-04 11:55,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,3,4.86,Pix,App
+2025-10-12 11:03,Rio de Janeiro - Ipanema,Croissant,Comida,1,11.62,Cartão,Balcão
+2024-05-04 07:36,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,1,4.9,Pix,App
+2025-05-14 07:29,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.85,Dinheiro,Balcão
+2025-12-04 16:02,São Paulo - Paulista,Pão de Queijo,Comida,1,7.11,Cartão,Balcão
+2025-07-06 15:55,São Paulo - Paulista,Latte,Bebida Quente,2,12.01,Pix,Delivery
+2025-09-01 13:47,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,13.24,Pix,Balcão
+2024-09-18 12:38,Belo Horizonte - Savassi,Pão de Queijo,Comida,3,7.47,Pix,Balcão
+2025-09-08 09:23,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.19,Cartão,Balcão
+2024-01-16 10:11,Belo Horizonte - Savassi,Pão de Queijo,Comida,2,7.46,Pix,Balcão
+2024-04-03 11:37,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.27,Cartão,Delivery
+2024-03-31 09:01,São Paulo - Paulista,Café Coado,Bebida Quente,2,4.93,Cartão,Balcão
+2025-01-07 11:24,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,13.29,Cartão,Delivery
+2024-05-29 17:16,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,5.74,Pix,Delivery
+2024-02-07 17:27,São Paulo - Paulista,Café Expresso,Bebida Quente,1,5.89,Pix,Balcão
+2024-07-26 13:14,Curitiba - Batel,Cappuccino,Bebida Quente,1,11.78,Cartão,Delivery
+2024-10-16 19:52,São Paulo - Paulista,Café Coado,Bebida Quente,2,5.12,Cartão,Delivery
+2025-06-19 10:56,São Paulo - Paulista,Croissant,Comida,2,12.68,Cartão,Balcão
+2025-05-06 21:19,São Paulo - Paulista,Suco Natural,Bebida Gelada,3,10.67,Cartão,Delivery
+2025-06-10 16:30,Rio de Janeiro - Ipanema,Sanduíche Natural,Comida,1,16.6,Pix,Balcão
+2025-12-07 11:37,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,1,12.5,Pix,Delivery
+2025-04-29 12:23,São Paulo - Paulista,Pão de Queijo,Comida,1,7.29,Cartão,Balcão
+2024-05-30 09:25,Belo Horizonte - Savassi,Bolo de Chocolate,Comida,1,10.03,Cartão,Delivery
+2025-03-28 10:24,Porto Alegre - Moinhos,Chocolate Quente,Bebida Quente,1,13.42,Dinheiro,Balcão
+2024-12-16 14:04,Rio de Janeiro - Ipanema,Bolo de Cenoura,Comida,1,10.17,Dinheiro,Balcão
+2024-07-23 15:25,Curitiba - Batel,Café Expresso,Bebida Quente,1,6.45,Pix,Balcão
+2025-06-08 18:07,São Paulo - Paulista,Café Expresso,Bebida Quente,2,6.48,Cartão,App
+2025-01-09 11:35,Curitiba - Batel,Bolo de Chocolate,Comida,1,10.81,Pix,App
+2024-02-04 14:33,Belo Horizonte - Savassi,Café Expresso,Bebida Quente,1,6.37,Cartão,Balcão
+2025-07-02 08:49,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,11.92,Cartão,Balcão
+2025-07-02 17:26,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.98,Cartão,Balcão
+2024-06-07 13:35,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.33,Pix,Balcão
+2025-06-05 15:49,São Paulo - Paulista,Sanduíche Natural,Comida,3,16.37,Pix,App
+2025-09-26 15:41,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.65,Pix,App
+2024-11-25 08:39,Rio de Janeiro - Ipanema,Suco Natural,Bebida Gelada,1,10.13,Pix,App
+2024-01-29 11:08,Porto Alegre - Moinhos,Suco Natural,Bebida Gelada,1,10.55,Cartão,Balcão
+2024-06-30 15:44,Rio de Janeiro - Ipanema,Pão de Queijo,Comida,2,7.55,Cartão,Balcão
+2024-06-13 09:53,São Paulo - Paulista,Bolo de Chocolate,Comida,2,10.25,Pix,App
+2024-08-06 14:19,São Paulo - Paulista,Sanduíche Natural,Comida,3,15.76,Cartão,Balcão
+2024-01-22 10:48,São Paulo - Paulista,Chocolate Quente,Bebida Quente,1,12.6,Cartão,Delivery
+2025-01-04 10:10,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,4,13.36,Pix,App
+2025-03-05 21:17,Rio de Janeiro - Ipanema,Café Coado,Bebida Quente,2,5.11,Cartão,Delivery
+2025-07-20 11:06,São Paulo - Paulista,Café Coado,Bebida Quente,1,5.02,Pix,App
+2025-04-30 07:46,Belo Horizonte - Savassi,Café Coado,Bebida Quente,1,5.22,Cartão,Balcão
+2025-06-02 19:17,São Paulo - Paulista,Bolo de Chocolate,Comida,1,10.01,Pix,Balcão
+2024-06-16 12:26,Belo Horizonte - Savassi,Cappuccino,Bebida Quente,1,11.68,Cartão,App
+2025-08-26 11:31,São Paulo - Paulista,Café Coado,Bebida Quente,3,4.93,Cartão,App
+2025-12-06 19:18,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.61,Pix,Balcão
+2025-06-21 13:50,Curitiba - Batel,Latte,Bebida Quente,2,11.91,Cartão,App
+2025-12-17 20:19,Rio de Janeiro - Ipanema,Latte,Bebida Quente,1,11.76,Pix,App
+2024-04-25 07:32,Rio de Janeiro - Ipanema,Bolo de Chocolate,Comida,1,10.55,Cartão,Balcão
+2024-03-30 09:44,Rio de Janeiro - Ipanema,Cappuccino,Bebida Quente,1,11.53,Cartão,Balcão
+2025-04-03 17:03,Porto Alegre - Moinhos,Croissant,Comida,1,12.01,Cartão,Balcão
+2024-06-16 08:28,São Paulo - Paulista,Latte,Bebida Quente,2,11.6,Pix,Balcão
+2025-11-27 20:58,Rio de Janeiro - Ipanema,Croissant,Comida,2,12.44,Cartão,Balcão
+2024-06-02 07:25,Curitiba - Batel,Bolo de Chocolate,Comida,2,10.05,Cartão,App
+2024-08-27 12:27,Porto Alegre - Moinhos,Sanduíche Natural,Comida,1,16.73,Dinheiro,Balcão
+2024-07-11 17:18,Rio de Janeiro - Ipanema,Latte,Bebida Quente,2,12.02,Cartão,Delivery
+2025-12-16 08:50,Porto Alegre - Moinhos,Café Gelado,Bebida Gelada,3,12.06,Cartão,Delivery
+2025-09-17 07:17,Curitiba - Batel,Cappuccino,Bebida Quente,2,11.55,Dinheiro,Balcão
+2024-08-27 16:16,Rio de Janeiro - Ipanema,Café Gelado,Bebida Gelada,1,11.89,Cartão,Balcão
+2024-06-11 15:59,Belo Horizonte - Savassi,Croissant,Comida,2,12.19,Pix,App
+2024-01-11 07:35,Curitiba - Batel,Bolo de Chocolate,Comida,2,10.2,Cartão,App
