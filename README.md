@@ -1,12 +1,27 @@
 # ☕ CaféBR — Análise Exploratória de Vendas (2024–2025)
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-sqlite3-003B57?logo=sqlite&logoColor=white)
+![License](https://img.shields.io/badge/uso-portf%C3%B3lio-lightgrey)
+
 Análise exploratória de dados (EDA) das vendas de uma rede fictícia de cafeterias, a
 **CaféBR**, com 5 unidades em capitais brasileiras. O projeto vai do **dado bruto às
 conclusões de negócio** usando o núcleo do dia a dia de um analista: **pandas**,
 **SQL (sqlite3)**, **estatística descritiva** e **visualização** com matplotlib/seaborn.
 
+![Preview da análise](imagens/preview.png)
+
+📓 **Veja o notebook renderizado:**
+[nbviewer](https://nbviewer.org/github/PedroFelipe-git/notebook-analise/blob/main/analise.ipynb)
+· [abrir no Google Colab](https://colab.research.google.com/github/PedroFelipe-git/notebook-analise/blob/main/analise.ipynb)
+
 > Projeto de portfólio. Todos os dados são **sintéticos** e gerados offline — não há
 > downloads externos nem chaves de API. O notebook roda de cima a baixo sem erros.
+>
+> No **Colab**, antes de executar as células rode `!git clone` do repositório (ou faça
+> upload da pasta `dados/`) para que o `vendas_cafebr.csv` fique disponível.
 
 ---
 
@@ -42,7 +57,10 @@ notebook-analise/
 ├── analise.ipynb            # notebook de EDA (narrativa + código, já executado)
 ├── dados/
 │   └── vendas_cafebr.csv     # ~2.000 linhas sintéticas de vendas (2024–2025)
+├── imagens/
+│   └── preview.png           # imagem de preview usada no README
 ├── gerar_dados.py            # script que gera o CSV (semente fixa, reprodutível)
+├── gerar_preview.py          # script que gera a imagem de preview
 ├── construir_notebook.py     # script que monta o analise.ipynb
 ├── requirements.txt          # dependências
 └── README.md
